@@ -1,1534 +1,1529 @@
 [
-  {
-    "id": 1,
-    "name": "Kota Factory",
-    "rating": 9.2,
-    "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives",
-    "category": ["Comedy", "Drama"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Mayur More",
-        "Jitendra Kumar",
-        "Revathi Pillai",
-        "Urvi Singh",
-        "Alam Khan",
-        "Ahsaas Channa",
-        "Ranjan Raj"
-      ],
-      "director": ["Raghav Subbu"]
-    },
-    "poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
-    "episodeCount": 10,
-    "seasons": 2,
-    "releaseDate": "16-04-2019"
-  },
-  {
-    "id": 2,
-    "name": "The Family Man",
-    "rating": 8.8,
-    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-    "category": ["Comedy", "Drama", "Action"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Manoj Bajpayee",
-        "Samantha Akkineni",
-        "Priyamani",
-        "Sharib Hashmi",
-        "Ashlesha Thakur",
-        "Vedant Sinha",
-        "Shahab Ali",
-        "Shreya Dhanwanthary"
-      ],
-      "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"]
-    },
-    "poster": "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
-    "episodeCount": 19,
-    "seasons": 2,
-    "releaseDate": "20 September 2019"
-  },
-  {
-    "id": 3,
-    "name": "Mirzapur",
-    "rating": 8.4,
-    "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur",
-    "category": ["Crime", "Drama", "Action"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "Divyendu Sharma",
-        "Shweta Tripathi",
-        "Kulbhushan Kharbanda",
-        "Rasika Dugal"
-      ],
-      "director": ["Gurmmeet Singh", "Mihir Desai", "Karan Anshuman"]
-    },
-    "poster": "https://www.imdb.com/title/tt6473300/mediaviewer/rm3373062913/",
-    "episodeCount": 19,
-    "seasons": 2,
-    "releaseDate": "15 November 2018"
-  },
-  {
-    "id": 4,
-    "name": "TVF Pitchers",
-    "rating": 9.1,
-    "description": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
-    "category": ["Comedy", "Drama"],
-    "platform": "TVF Play",
-    "casting": {
-      "actors": [
-        "Naveen Kasturia",
-        "Arunabh Kumar",
-        "Jitendra Kumar",
-        "Abhay Mahajan",
-        "Akanksha Thakur",
-        "Maanvi Gagroo"
-      ],
-      "director": ["Amit Golani"]
-    },
-    "poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
-    "episodeCount": 5,
-    "seasons": 1,
-    "releaseDate": "3 June 2015"
-  },
-  {
-    "id": 5,
-    "name": "Sacred Games",
-    "rating": 8.6,
-    "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm",
-    "category": ["Crime", "Drama", "Action"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Saif Ali Khan",
-        "Nawazuddin Siddiqui",
-        "Neeraj Kabi",
-        "Elnaaz Norouzi",
-        "Aamir Bashir",
-        "Pankaj Tripathi",
-        "Radhika Apte",
-        "Jitendra Joshi"
-      ],
-      "director": ["Anurag Kashyap"]
-    },
-    "poster": "https://www.imdb.com/title/tt6077448/mediaviewer/rm1135188993/?ref_=tt_ov_i",
-    "episodeCount": 16,
-    "seasons": 2,
-    "releaseDate": "6 July 2018"
-  },
-  {
-    "id": 6,
-    "name": "Special OPS",
-    "rating": 8.6,
-    "description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
-    "category": ["Crime", "Thriller", "Action"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": [
-        "Kay Kay Menon",
-        "Karan Tacker",
-        "Gautami Kapoor",
-        "Vinay Pathak",
-        "Meher Vij"
-      ],
-      "director": ["Neeraj Pandey", "Shivam Nair"]
-    },
-    "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "16 March 2020"
-  },
-  {
-    "id": 7,
-    "name": "Asur: Welcome to Your Dark Side",
-    "rating": 8.5,
-    "description": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology.",
-    "category": ["Crime", "Drama", "Mystery"],
-    "platform": "Voot",
-    "casting": {
-      "actors": [
-        "Arshad Warsi",
-        "Barun Sobti",
-        "Riddhi Dogra",
-        "Anupriya Goenka",
-        "Amey Wagh"
-      ],
-      "director": ["Oni Sen"]
-    },
-    "poster": "https://www.imdb.com/title/tt11912196/mediaviewer/rm1168488705/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "2 March 2020"
-  },
-  {
-    "id": 8,
-    "name": "Paatal Lok",
-    "rating": 7.8,
-    "description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit of it leads him to 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
-    "category": ["Crime", "Drama", "Thriller"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Jaideep Ahlawat",
-        "Neeraj Kabi",
-        "Ishwak Singh",
-        "Abhishek Banerjee",
-        "Jagjeet Sandhu"
-      ],
-      "director": ["Avinash Arun", "Prosit Roy"]
-    },
-    "poster": "https://www.imdb.com/title/tt9680440/mediaviewer/rm2207495681/",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "15 May 2020"
-  },
-  {
-    "id": 9,
-    "name": "SCAM 1992: The Harshad Mehta Story",
-    "rating": 9.5,
-    "description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
-    "category": ["Crime", "Drama", "Biography"],
-    "platform": "Sony Liv",
-    "casting": {
-      "actors": [
-        "Pratik Gandhi",
-        "Shreya Dhanwanthary",
-        "Anjali Barot",
-        "Chirag Vohra",
-        "Anant Mahadevan"
-      ],
-      "director": ["Hansal Mehta", "Jai Mehta"]
-    },
-    "poster": "https://www.imdb.com/title/tt12392504/mediaviewer/rm2407113985/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "10 October 2020"
-  },
-  {
-    "id": 10,
-    "name": "Panchayat",
-    "rating": 8.8,
-    "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-    "category": ["Comedy", "Drama"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Jitendra Kumar",
-        "Raghuvir Yadav",
-        "Chandan Roy",
-        "Neena Gupta",
-        "Biswapati Sarkar"
-      ],
-      "director": ["Deepak Kumar Mishra"]
-    },
-    "poster": "https://www.imdb.com/title/tt12004706/mediaviewer/rm684637185/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "5 March 2020"
-  },
-  {
-    "id": 11,
-    "name": "Bandish Bandits",
-    "rating": 8.7,
-    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
-    "category": ["Music", "Drama", "Romance"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Ritwik Bhowmik",
-        "Shreya Chaudhary",
-        "Naseeruddin Shah",
-        "Sheeba Chaddha",
-        "Rajesh Tailang",
-        "Kunaal Roy Kapur"
-      ],
-      "director": ["Anand Tiwari"]
-    },
-    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "4 August 2020"
-  },
-  {
-    "id": 12,
-    "name": "High",
-    "rating": 9.0,
-    "description": "Shiv Mathur is an addict and eventually finds himself in a rehab facility. The rehab is run by people who are working on a mysterious compound. This magical pill seems to have an edge above all; but is this miracle drug worth dying for?",
-    "category": ["Crime", "Drama", "Thriller"],
-    "platform": "Mx Player",
-    "casting": {
-      "actors": [
-        "Akshay Oberoi",
-        "Ranvir Shorey",
-        "Mrinmayee Godbole",
-        "Shweta Basu Prasad",
-        "Prakash Belawadi"
-      ],
-      "director": ["Nikhil Rao"]
-    },
-    "poster": "https://www.imdb.com/title/tt13174524/mediaviewer/rm4241270017/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "7 October 2020"
-  },
-  {
-    "id": 13,
-    "name": "Abhay",
-    "rating": 8.0,
-    "description": "Abhay Pratap Singh, the gutsy cop who can outwit any criminal, is back. Only this time, he is up against some sharper and hardened evil masterminds. Join him as he sets out on the road to justice with a darker and edgier.",
-    "category": ["Crime", "Thriller"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Kunal Khemu",
-        "Elnaaz Norouzi",
-        "Ram Kapoor",
-        "Asha Negi",
-        "Nidhi Singh"
-      ],
-      "director": ["Ken Ghosh"]
-    },
-    "poster": "https://www.imdb.com/title/tt9778022/mediaviewer/rm3951797249/?ref_=tt_ov_i",
-    "episodeCount": 16,
-    "seasons": 2,
-    "releaseDate": "14 August 2020"
-  },
-  {
-    "id": 14,
-    "name": "Aarya",
-    "rating": 7.9,
-    "description": "When her world suddenly turns upside down, will Aarya become the very thing she hated?How far will she go to survive and protect her family?",
-    "category": ["Crime", "Thriller", "Drama"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": [
-        "Sushmita Sen",
-        "Vikas Kumar",
-        "Namit Das",
-        "Sikandar Kher",
-        "Maya Sarao"
-      ],
-      "director": ["Ram Madhvani", "Sandeep Modi", "Vinod Rawat"]
-    },
-    "poster": "https://www.imdb.com/title/tt12448030/mediaviewer/rm1699722497/",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "19 June 2020"
-  },
-  {
-    "id": 15,
-    "name": "Apharan",
-    "rating": 8.3,
-    "description": "Rudra Srivastava, a senior inspector with Uttarakhand police is lured into kidnapping a young girl at her request. The plot begins as a simple plan to extort money in exchange for her release. When the chain of events go wrong and a series of lies unfold, he realizes that he is now a part of a deadly conspiracy. Will he be able to escape the outcome of his choices or become a victim of the web of lies?",
-    "category": ["Crime", "Thriller", "Action"],
-    "platform": "ALT Balaji",
-    "casting": {
-      "actors": [
-        "Arunoday Singh",
-        "Mahie Gill",
-        "Nidhi Singh",
-        "Monica Chaudhary"
-      ],
-      "director": ["Siddharth Sengupta"]
-    },
-    "poster": "https://www.imdb.com/title/tt8392006/mediaviewer/rm3610408448/?ref_=tt_ov_i",
-    "episodeCount": 12,
-    "seasons": 1,
-    "releaseDate": "14 December 2018"
-  },
-  {
-    "id": 16,
-    "name": "Breathe",
-    "rating": 8.3,
-    "description": "This series just asks one question - how far will you go to protect the one you love. Two desperate and driven men must engage in the ultimate cat and mouse game to save the one they love.",
-    "category": ["Thriller", "Drama"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Madhavan",
-        "Amit Sadh",
-        "Sapna Pabbi",
-        "Shriswara",
-        "Atharva Vishwakarma",
-        "Hrishikesh Joshi"
-      ],
-      "director": ["Mayank Sharma"]
-    },
-    "poster": "https://www.imdb.com/title/tt6466208/mediaviewer/rm2520011520/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "26 January 2018"
-  },
-  {
-    "id": 17,
-    "name": "Bhaukaal",
-    "rating": 8.2,
-    "description": "Naveen Sikhera makes his way into the sin city as the new SSP, he is hit by the prevailing chaos and lawlessness in the city. Muzaffarnagar is ruled by Shaukeen gang in the east and the Dedha brothers rule the west.",
-    "category": ["Action", "Crime"],
-    "platform": "Mx Player",
-    "casting": {
-      "actors": [
-        "Mohit Raina",
-        "Abhimanyu Singh",
-        "Siddhant Kapoor",
-        "Bidita Bag",
-        "Sunny Hinduja"
-      ],
-      "director": ["Jatin Satish Wagle"]
-    },
-    "poster": "https://www.imdb.com/title/tt9359338/mediaviewer/rm3856260353/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "6 March 2020"
-  },
-  {
-    "id": 18,
-    "name": "Dhanbad Blues",
-    "rating": 5.1,
-    "description": "Mrinal Sen is a failed director whose life takes a turn when he gets an opportunity to direct a film in Jharkhand. Hoichoi presents web-series ",
-    "category": ["Thriller"],
-    "platform": "Hoichoi",
-    "casting": {
-      "actors": [
-        "Rajatabha Dutta",
-        "Solanki Roy",
-        "Dibyendu Bhattacharya",
-        "Imran Hasnee"
-      ],
-      "director": ["Sourav Chakraborty"]
-    },
-    "poster": "https://www.imdb.com/title/tt9466186/mediaviewer/rm1888783361/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "15 December 2018"
-  },
-  {
-    "id": 19,
-    "name": "Sharate Aaj",
-    "rating": 7.3,
-    "description": "This thriller drama revolves around a group of NRI Bengalis, both from India and Bangladesh, who come together to organise and celebrate Durga Puja. However, a terrorist group plans to disrupt the event.",
-    "category": ["Drama"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Danny Darren",
-        "Joy Bhowmik",
-        "Marek Hollands",
-        "Soutrik Basu"
-      ],
-      "director": ["Aritra Sen"]
-    },
-    "poster": "https://www.imdb.com/title/tt9868952/mediaviewer/rm2767351040/?ref_=tt_ov_i",
-    "episodeCount": 6,
-    "seasons": 1,
-    "releaseDate": "21 February 2019"
-  },
-  {
-    "id": 20,
-    "name": "Gullak",
-    "rating": 9.1,
-    "description": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
-    "category": ["Drama", "Comedy", "Family"],
-    "platform": "Sony Liv",
-    "casting": {
-      "actors": [
-        "Jameel Khan",
-        "Geetanjali Kulkarni",
-        "Vaibhav Raj Gupta",
-        "Shivankit Singh Parihar"
-      ],
-      "director": ["Amrit Raj Gupta", "Palash Vaswani"]
-    },
-    "poster": "https://www.imdb.com/title/tt10530900/mediaviewer/rm167171585/",
-    "episodeCount": 10,
-    "seasons": 2,
-    "releaseDate": "27 June 2019"
-  },
-  {
-    "id": 21,
-    "name": "Yeh Meri Family",
-    "rating": 9.1,
-    "description": "Set in the summer of 1998 it is a story about conflicting emotions towards family members from the eyes of a twelve year old.",
-    "category": ["Drama", "Comedy", "Family"],
-    "platform": "TVF Play",
-    "casting": {
-      "actors": [
-        "Vishesh Bansal",
-        "Mona Singh",
-        "Akarsh Khurana",
-        "Ahan Nirban"
-      ],
-      "director": ["Sameer Saxena"]
-    },
-    "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "12 July 2018"
-  },
-  {
-    "id": 22,
-    "name": "Betaal",
-    "rating": 5.4,
-    "description": "A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.",
-    "category": ["Action", "Horror", "Thriller"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Vineet Kumar Singh",
-        "Aahana Kumra",
-        "Suchitra Pillai",
-        "Jatin Goswami"
-      ],
-      "director": ["Patrick Graham", "Nikhil Mahajan"]
-    },
-    "poster": "https://www.imdb.com/title/tt10651790/mediaviewer/rm3930173697/?ref_=tt_ov_i",
-    "episodeCount": 4,
-    "seasons": 1,
-    "releaseDate": "24 May 2020"
-  },
-  {
-    "id": 23,
-    "name": "Raktanchal",
-    "rating": 7.5,
-    "description": "Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance.",
-    "category": ["Action", "Crime"],
-    "platform": "Mx Player",
-    "casting": {
-      "actors": [
-        "Nikitin Dheer",
-        "Kranti Prakash Jha",
-        "Soundarya Sharma",
-        "Ronjini Chakraborty"
-      ],
-      "director": ["Ritam Srivastav"]
-    },
-    "poster": "https://www.imdb.com/title/tt12347286/mediaviewer/rm245543937/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "24 May 2020"
-  },
-  {
-    "id": 24,
-    "name": "Your Honor",
-    "rating": 7.4,
-    "description": "As the son of a reputed judge gets involved in a hit and run, we see how even the most upright people break In order to save their family. The judge sacrifices relationships and subverts the law to save his son from a vengeful gangster.",
-    "category": ["Action", "Drama", "Thriller"],
-    "platform": "Sony Liv",
-    "casting": {
-      "actors": [
-        "Jimmy Sheirgill",
-        "Varun Badola",
-        "Parul Gulati",
-        "Mita Vashisht"
-      ],
-      "director": ["Eeshwar Nivas"]
-    },
-    "poster": "https://www.imdb.com/title/tt12392470/mediaviewer/rm31501057/?ref_=tt_ov_i",
-    "episodeCount": 12,
-    "seasons": 1,
-    "releaseDate": "18 June 2020"
-  },
-  {
-    "id": 25,
-    "name": "Lalbazaar",
-    "rating": 7.3,
-    "description": "A set of brave cops deal with the dark underbelly and bring some of the most sinister customers to justice.",
-    "category": ["Crime", "Drama"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Koushik Sen",
-        "Hrishitaa Bhatt",
-        "Sabyasachi Chakrabarty",
-        "Subrat Dutta"
-      ],
-      "director": ["Sayantan Ghosal"]
-    },
-    "poster": "https://www.imdb.com/title/tt12416834/mediaviewer/rm4258376193/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "19 June 2020"
-  },
-  {
-    "id": 26,
-    "name": "Crackdown",
-    "rating": 7.5,
-    "description": "A secret service unit, a sinister terror plot, and several innocent lives on the line. Top agent, RP, and his team lead the charge to neutralize the enemies. With time running out, can they eliminate the threat before it eliminates them?",
-    "category": ["Crime", "Drama", "Action"],
-    "platform": "Voot",
-    "casting": {
-      "actors": [
-        "Saqib Saleem",
-        "Shriya Pilgaonkar",
-        "Iqbal Khan",
-        "Rajesh Tailang"
-      ],
-      "director": ["Apoorva Lakhia"]
-    },
-    "poster": "https://www.imdb.com/title/tt12701270/mediaviewer/rm3460735233/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "23 September 2020"
-  },
-  {
-    "id": 27,
-    "name": "Avrodh the Siege Within",
-    "rating": 7.7,
-    "description": "It is a War Thriller based on the theme of Indian Army and Uri Surgical Strike.",
-    "category": ["Action"],
-    "platform": "Sony Liv",
-    "casting": {
-      "actors": [
-        "Amit Sadh",
-        "Vikram Gokhale",
-        "Neeraj Kabi",
-        "Darshan Kumaar"
-      ],
-      "director": ["Raj Acharya"]
-    },
-    "poster": "https://www.imdb.com/title/tt12392458/mediaviewer/rm1217375233/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "31 July 2020"
-  },
-  {
-    "id": 28,
-    "name": "JL50",
-    "rating": 7.5,
-    "description": "A plane is discovered to have recently crashed in West Bengal. However, what is so baffling about the incident is that plane originally went missing 35 years ago.",
-    "category": ["Drama", "Sci-Fi", "Thriller"],
-    "platform": "Sony Liv",
-    "casting": {
-      "actors": ["Abhay Deol", "Pankaj Kapur", "Ritika Anand", "Piyush Mishra"],
-      "director": ["Shailender Vyas"]
-    },
-    "poster": "https://www.imdb.com/title/tt7441984/mediaviewer/rm816947457/?ref_=tt_ov_i",
-    "episodeCount": 5,
-    "seasons": 1,
-    "releaseDate": "4 September 2020"
-  },
-  {
-    "id": 29,
-    "name": "Pariwar",
-    "rating": 6.9,
-    "description": "A loving father who misses his wayward quarrelsome children will stop at nothing to make sure they come home, and Kashiram Narayan knows just the right tricks.",
-    "category": ["Comedy"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": ["Gajraj Rao", "Vijay Raaz", "Yashpal Sharma", "Ranvir Shorey"],
-      "director": ["Sagar Ballary"]
-    },
-    "poster": "https://www.imdb.com/title/tt13124352/mediaviewer/rm2919016193/?ref_=tt_ov_i",
-    "episodeCount": 6,
-    "seasons": 1,
-    "releaseDate": "23 September 2020"
-  },
-  {
-    "id": 30,
-    "name": "Black Widows",
-    "rating": 7.3,
-    "description": "Tired of their abusive husbands, three women plan and execute their murders. It is an almost perfect plan, till Pankaj Mishra - assigned to the case -- realises there is more to it than met the eye.",
-    "category": ["Crime", "Drama", "Mystery"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Shruti Vyas",
-        "Nikhil Bhambri",
-        "Shaheb Chattopadhyay",
-        "Faisal Malik"
-      ],
-      "director": ["Birsa Dasgupta"]
-    },
-    "poster": "https://www.imdb.com/title/tt13032762/mediaviewer/rm1480184321/?ref_=tt_ov_i",
-    "episodeCount": 12,
-    "seasons": 1,
-    "releaseDate": "18 December 2020"
-  },
-  {
-    "id": 31,
-    "name": "Taqdeer",
-    "rating": 8.9,
-    "description": "Freezer van driver Taqdeer spirals into a dark game of destiny after he finds the unclaimed dead body of a woman in his truck.",
-    "category": ["Crime", "Thriller", "Mystery"],
-    "platform": "Hoichoi",
-    "casting": {
-      "actors": [
-        "Chanchal Chowdhury",
-        "Sanjida Preeti",
-        "Manoj Kumar Pramanik",
-        "Shohel Mondol"
-      ],
-      "director": ["Syed Ahmed Shawki"]
-    },
-    "poster": "https://www.imdb.com/title/tt13582638/mediaviewer/rm4029010433/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "18 December 2020"
-  },
-  {
-    "id": 32,
-    "name": "Paurashpur",
-    "rating": 8.0,
-    "description": "In a kingdom dominated by men, it is the ultimate battle of the sexes to win the war being waged against gender equality. Every character is grey and they must fight for what they believe is right in order to survive in Paurashpur.",
-    "category": ["Drama"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Annu Kapoor",
-        "Shilpa Shinde",
-        "Milind Soman",
-        "Shaheer Sheikh"
-      ],
-      "director": ["Baljit Singh Chaddha"]
-    },
-    "poster": "https://www.imdb.com/title/tt13439476/mediaviewer/rm868736257/?ref_=tt_ov_i",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "29 December 2020"
-  },
-  {
-    "id": 33,
-    "name": "Tandav",
-    "rating": 3.8,
-    "description": "Tandav is a story that happens in the capital city of the world's largest democracy - DILLI (New Delhi), where it takes you inside the closed, chaotic doors of power and manipulation and uncover the darkest lanes of Indian politics.",
-    "category": ["Drama", "Thriller"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Saif Ali Khan",
-        "Dimple Kapadia",
-        "Mohd. Zeeshan Ayyub",
-        "Sunil Grover"
-      ],
-      "director": ["Ali Abbas Zafar"]
-    },
-    "poster": "https://www.imdb.com/title/tt11117570/mediaviewer/rm3009728513/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "15 January 2021"
-  },
-  {
-    "id": 34,
-    "name": "Crashh",
-    "rating": 8.8,
-    "description": "A happy family was torn apart by a fateful accident. When fate brings them together will Kabir, Kajol, Alia and Rahim realise that they are family? Will these long lost siblings find their long lost love for each other?",
-    "category": ["Romance"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": ["Kunj Anand", "Aditi Sharma", "Anushka Sen", "Zain Imam"],
-      "director": ["Kushal Zaveri"]
-    },
-    "poster": "https://www.imdb.com/title/tt13529854/mediaviewer/rm3284915201/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "14 February 2021"
-  },
-  {
-    "id": 35,
-    "name": "Chacha Vidhayak Hain Hamare",
-    "rating": 7.7,
-    "description": "Ronny's whole life is based on a lie. To the world he is the nephew of the local MLA and a youth leader who solves people's problems. But in reality, Ronny is a jobless 25 year old with no relation to the MLA who shares his surname.",
-    "category": ["Comedy"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": ["Zakir Khan", "Kumar Varun", "Vyom Sharma", "Alka Amin"],
-      "director": ["Vikas Chandra"]
-    },
-    "poster": "https://www.imdb.com/title/tt8254592/mediaviewer/rm1235189248/?ref_=tt_ov_i",
-    "episodeCount": 16,
-    "seasons": 2,
-    "releaseDate": "11 May 2018"
-  },
-  {
-    "id": 36,
-    "name": "Sunflower",
-    "rating": 7.5,
-    "description": "A quirky murder mystery based in a housing society called Sunflower. Its simpleton resident Sonu dives headlong into a murder mystery and becomes the chief suspect. What happens next?",
-    "category": ["Comedy", "Crime"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": ["Sunil Grover", "Ashish Vidyarthi", "Ranvir Shorey"],
-      "director": ["Vikas Bahl"]
-    },
-    "poster": "https://www.imdb.com/title/tt13304410/mediaviewer/rm3212363009/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "11 June 2021"
-  },
-  {
-    "id": 37,
-    "name": "Little Things",
-    "rating": 8.3,
-    "description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
-    "category": ["Comedy", "Romance"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": ["Dhruv Sehgal", "Mithila Palkar", "Abhishek Bhalerao"],
-      "director": ["Ajay Bhuyan", "Sumit Arora", "Ruchir Arun"]
-    },
-    "poster": "https://www.imdb.com/title/tt6522580/mediaviewer/rm1326676992/?ref_=tt_ov_i",
-    "episodeCount": 21,
-    "seasons": 3,
-    "releaseDate": "25 October 2016"
-  },
-  {
-    "id": 38,
-    "name": "Hundred",
-    "rating": 6.8,
-    "description": "An unapologetic and frustrated ACP teams up with an honest civil worker who teams up to accomplish their personal objectives.",
-    "category": ["Comedy", "Drama"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": ["Lara Dutta", "Gautami Kapoor", "Karan Wahi"],
-      "director": ["Ruchi Narain", "Ashutosh Shah", "Taher Shabbir"]
-    },
-    "poster": "https://www.imdb.com/title/tt12207704/mediaviewer/rm3962811137/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "25 April 2020"
-  },
-  {
-    "id": 39,
-    "name": "Delhi Crime",
-    "rating": 8.5,
-    "description": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
-    "category": ["Crime", "Drama"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": ["Shefali Shah", "Rasika Dugal", "Rajesh Tailang"],
-      "director": ["Richie Mehta"]
-    },
-    "poster": "https://www.imdb.com/title/tt9398466/mediaviewer/rm527785984/?ref_=tt_ov_i",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "22 March 2019"
-  },
-  {
-    "id": 40,
-    "name": "Jamtara: Sabka Number Ayega",
-    "rating": 7.3,
-    "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
-    "category": ["Crime"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": ["Amit Sial", "Dibyendu Bhattacharya", "Aksha Pardasany"],
-      "director": ["Soumendra Padhi"]
-    },
-    "poster": "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
-    "episodeCount": 11,
-    "seasons": 1,
-    "releaseDate": "10 January 2020"
-  },
-  {
-    "id": 41,
-    "name": "Hostel Daze",
-    "rating": 8.6,
-    "description": "Through the adventures of four friends 'Hostel Daze' captures what goes inside an engineering hostel in India.",
-    "category": ["Comedy", "Drama"],
-    "platform": "Amazon Prime Video",
-    "casting": {
-      "actors": [
-        "Adarsh Gourav",
-        "Nikhil Vijay",
-        "Shubham Gaur",
-        "Ahsaas Channa"
-      ],
-      "director": ["Raghav Subbu", "Amir Musanna", "Sangram Naiksatam"]
-    },
-    "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 2,
-    "releaseDate": "13 December 2019"
-  },
-  {
-    "id": 42,
-    "name": "Illegal - Justice,Out of Order",
-    "rating": 7.5,
-    "description": "An idealistic lawyer is trapped in the murky world of criminal law. Two cases (one about the death penalty for women in India, the other about sexual harassment in the workplace) show how out of order the justice system can be.",
-    "category": ["Comedy", "Drama", "Thriller"],
-    "platform": "Voot",
-    "casting": {
-      "actors": ["Neha Sharma", "Akshay Oberoi", "Piyush Mishra"],
-      "director": ["Sahir Raza"]
-    },
-    "poster": "https://www.imdb.com/title/tt10308632/mediaviewer/rm3671308033/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "12 May 2020"
-  },
-  {
-    "id": 43,
-    "name": "The Gone Game",
-    "rating": 7.8,
-    "description": "In the midst of a pandemic, Sahil Gujral goes missing. Thought to be a victim of the coronavirus at first, his death points to a mysterious crime.",
-    "category": ["Crime", "Thriller"],
-    "platform": "Voot",
-    "casting": {
-      "actors": [
-        "Sanjay Kapoor",
-        "Arjun Mathur",
-        "Shweta Tripathi",
-        "Shriya Pilgaonkar"
-      ],
-      "director": ["Nikhil Bhat"]
-    },
-    "poster": "https://www.imdb.com/title/tt12768990/mediaviewer/rm3545801473/?ref_=tt_ov_i",
-    "episodeCount": 4,
-    "seasons": 1,
-    "releaseDate": "20 August 2020"
-  },
-  {
-    "id": 44,
-    "name": "Baarish",
-    "rating": 8.2,
-    "description": "The series revolves around a millionaire Gujarati businessman Anuj (Sharman Joshi) and a Marathi girl Gauravi (Asha Negi) who are two complete strangers hailing from completely different backgrounds.",
-    "category": ["Romance", "Sitcom"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Asha Negi",
-        "Sharman Joshi",
-        "Vikram Singh Chauhan",
-        "Priya Banerjee"
-      ],
-      "director": ["Nandita Mehra"]
-    },
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
-    "episodeCount": 40,
-    "seasons": 2,
-    "releaseDate": "25 April 2019"
-  },
-  {
-    "id": 45,
-    "name": "Gandii Baat",
-    "rating": 3.4,
-    "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
-    "category": ["Romance"],
-    "platform": "Alt Balaji",
-    "casting": {
-      "actors": [
-        "Asha Negi",
-        "Sharman Joshi",
-        "Vikram Singh Chauhan",
-        "Priya Banerjee"
-      ],
-      "director": ["Nandita Mehra"]
-    },
-    "poster": "https://www.imdb.com/title/tt8228316/mediaviewer/rm66115073/",
-    "episodeCount": 25,
-    "seasons": 5,
-    "releaseDate": "23 April 2018"
-  },
-  {
-    "id": 46,
-    "name": "The final Call",
-    "rating": 4.4,
-    "description": "cThe Final Call is a 2019 Indian web television thriller series based on 2015 novel I Will Go with You by Priya Kumar..",
-    "category": ["Suspense"],
-    "platform": "Zee5",
-    "casting": {
-      "actors": [" Priya Kumar", "Sharman Joshi"],
-      "director": ["Vijay Lalwani"]
-    },
-    "poster": "https://www.google.com/search?q=the+final+call+cast&client=safari&rls=en&sxsrf=AOaemvJUOXpT9dZ-7YldlRuDWi1LyoFQxQ:1633024868532&tbm=isch&source=iu&ictx=1&fir=7UTj8HuB5xmTLM%252CpZImB9hK62uxtM%252C_%253BfY5tRerhPzLEGM%252CsOrtqNcCkxcYVM%252C_%253BkxGF36-vnxUndM%252CKLKJg9W9czwGsM%252C_%253B194F_B6PBovLJM%252CLvzz-JFzpsDrtM%252C_%253BLg1uKypiyuChpM%252CzxSTkxbkqbbi1M%252C_%253B380HEuLutKiPmM%252CY4BcYd0m0QAyxM%252C_&vet=1&usg=AI4_-kTlRKsr60C2ZSo8kdrCuh2RQr8kMw&sa=X&ved=2ahUKEwjvocrZo6fzAhWEyDgGHeS6DuUQ_B16BAg9EAE#imgrc=7UTj8HuB5xmTLM",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "23 April 2019"
-  },
-  
-  {
-    "id": 48,
-    "name": "Dark",
-    "rating": 4.8,
-    "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
-    "category": ["Mystery"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Louis Hofmann",
-        "Andreas Pietschmann",
-        "Ella Lee",
-        "Lisa Vicari"
-      ],
-      "director": ["Baran bo Odar"]
-    },
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsGlRa-W2Z5dTx2ZC9nK_88u1NlwUhnxKCkPFAJvoD8mFeu3f0HEuvAERtHxwEcfYFMg&usqp=CAU",
-    "episodeCount": 26,
-    "seasons": 3,
-    "releaseDate": "1 December 2017"
-  },
-  {
-    "id": 49,
-    "name": "Criminal Justice",
-    "rating": 8.1,
-    "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
-    "category": ["Mystery", "Drama"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": [
-        "Mayur More",
-        "Jitendra Kumar",
-        "Revathi Pillai",
-        "Urvi Singh",
-        "Alam Khan",
-        "Ahsaas Channa",
-        "Ranjan Raj"
-      ],
-      "director": ["Raghav Subbu"]
-    },
-    "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "5 April 2019"
-  },
-  {
-    "id": 50,
-    "name": "30 weds 21",
-    "rating": 8.0,
-    "description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
-    "category": ["Romance", "Comedy"],
-    "platform": "Youtube",
-    "casting": {
-      "actors": ["Chaitanya Madadi", "Chaitanya Rao", "Ananya"],
-      "director": ["Prithvi Vanam"]
-    },
-    "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjc1Y2QyM2UtNzNmZC00MjIxLWI1ZTQtMzQxZDhjZWU5MjhiXkEyXkFqcGdeQXVyMTMyNDIyMDYz._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14631516%2F&tbnid=UWIZc5qJxBIXiM&vet=12ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ..i&docid=4IfXl4927M1VqM&w=1000&h=1202&q=30%20weds%2021%20poster&ved=2ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ",
-    "episodeCount": 6,
-    "seasons": 1,
-    "releaseDate": "2 May 2021"
-  },
+	{
+		"id": 1,
+		"name": "Kota Factory",
+		"rating": 9.2,
+		"description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives",
+		"category": ["Comedy", "Drama"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Mayur More",
+				"Jitendra Kumar",
+				"Revathi Pillai",
+				"Urvi Singh",
+				"Alam Khan",
+				"Ahsaas Channa",
+				"Ranjan Raj"
+			],
+			"director": ["Raghav Subbu"]
+		},
+		"poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
+		"episodeCount": 10,
+		"seasons": 2,
+		"releaseDate": "16-04-2019"
+	},
+	{
+		"id": 2,
+		"name": "The Family Man",
+		"rating": 8.8,
+		"description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+		"category": ["Comedy", "Drama", "Action"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Manoj Bajpayee",
+				"Samantha Akkineni",
+				"Priyamani",
+				"Sharib Hashmi",
+				"Ashlesha Thakur",
+				"Vedant Sinha",
+				"Shahab Ali",
+				"Shreya Dhanwanthary"
+			],
+			"director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"]
+		},
+		"poster": "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
+		"episodeCount": 19,
+		"seasons": 2,
+		"releaseDate": "20 September 2019"
+	},
+	{
+		"id": 3,
+		"name": "Mirzapur",
+		"rating": 8.4,
+		"description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur",
+		"category": ["Crime", "Drama", "Action"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Pankaj Tripathi",
+				"Ali Fazal",
+				"Divyendu Sharma",
+				"Shweta Tripathi",
+				"Kulbhushan Kharbanda",
+				"Rasika Dugal"
+			],
+			"director": ["Gurmmeet Singh", "Mihir Desai", "Karan Anshuman"]
+		},
+		"poster": "https://www.imdb.com/title/tt6473300/mediaviewer/rm3373062913/",
+		"episodeCount": 19,
+		"seasons": 2,
+		"releaseDate": "15 November 2018"
+	},
+	{
+		"id": 4,
+		"name": "TVF Pitchers",
+		"rating": 9.1,
+		"description": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
+		"category": ["Comedy", "Drama"],
+		"platform": "TVF Play",
+		"casting": {
+			"actors": [
+				"Naveen Kasturia",
+				"Arunabh Kumar",
+				"Jitendra Kumar",
+				"Abhay Mahajan",
+				"Akanksha Thakur",
+				"Maanvi Gagroo"
+			],
+			"director": ["Amit Golani"]
+		},
+		"poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
+		"episodeCount": 5,
+		"seasons": 1,
+		"releaseDate": "3 June 2015"
+	},
+	{
+		"id": 5,
+		"name": "Sacred Games",
+		"rating": 8.6,
+		"description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm",
+		"category": ["Crime", "Drama", "Action"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Saif Ali Khan",
+				"Nawazuddin Siddiqui",
+				"Neeraj Kabi",
+				"Elnaaz Norouzi",
+				"Aamir Bashir",
+				"Pankaj Tripathi",
+				"Radhika Apte",
+				"Jitendra Joshi"
+			],
+			"director": ["Anurag Kashyap"]
+		},
+		"poster": "https://www.imdb.com/title/tt6077448/mediaviewer/rm1135188993/?ref_=tt_ov_i",
+		"episodeCount": 16,
+		"seasons": 2,
+		"releaseDate": "6 July 2018"
+	},
+	{
+		"id": 6,
+		"name": "Special OPS",
+		"rating": 8.6,
+		"description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
+		"category": ["Crime", "Thriller", "Action"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": [
+				"Kay Kay Menon",
+				"Karan Tacker",
+				"Gautami Kapoor",
+				"Vinay Pathak",
+				"Meher Vij"
+			],
+			"director": ["Neeraj Pandey", "Shivam Nair"]
+		},
+		"poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "16 March 2020"
+	},
+	{
+		"id": 7,
+		"name": "Asur: Welcome to Your Dark Side",
+		"rating": 8.5,
+		"description": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology.",
+		"category": ["Crime", "Drama", "Mystery"],
+		"platform": "Voot",
+		"casting": {
+			"actors": [
+				"Arshad Warsi",
+				"Barun Sobti",
+				"Riddhi Dogra",
+				"Anupriya Goenka",
+				"Amey Wagh"
+			],
+			"director": ["Oni Sen"]
+		},
+		"poster": "https://www.imdb.com/title/tt11912196/mediaviewer/rm1168488705/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "2 March 2020"
+	},
+	{
+		"id": 8,
+		"name": "Paatal Lok",
+		"rating": 7.8,
+		"description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit of it leads him to 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+		"category": ["Crime", "Drama", "Thriller"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Jaideep Ahlawat",
+				"Neeraj Kabi",
+				"Ishwak Singh",
+				"Abhishek Banerjee",
+				"Jagjeet Sandhu"
+			],
+			"director": ["Avinash Arun", "Prosit Roy"]
+		},
+		"poster": "https://www.imdb.com/title/tt9680440/mediaviewer/rm2207495681/",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "15 May 2020"
+	},
+	{
+		"id": 9,
+		"name": "SCAM 1992: The Harshad Mehta Story",
+		"rating": 9.5,
+		"description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+		"category": ["Crime", "Drama", "Biography"],
+		"platform": "Sony Liv",
+		"casting": {
+			"actors": [
+				"Pratik Gandhi",
+				"Shreya Dhanwanthary",
+				"Anjali Barot",
+				"Chirag Vohra",
+				"Anant Mahadevan"
+			],
+			"director": ["Hansal Mehta", "Jai Mehta"]
+		},
+		"poster": "https://www.imdb.com/title/tt12392504/mediaviewer/rm2407113985/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "10 October 2020"
+	},
+	{
+		"id": 10,
+		"name": "Panchayat",
+		"rating": 8.8,
+		"description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+		"category": ["Comedy", "Drama"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Jitendra Kumar",
+				"Raghuvir Yadav",
+				"Chandan Roy",
+				"Neena Gupta",
+				"Biswapati Sarkar"
+			],
+			"director": ["Deepak Kumar Mishra"]
+		},
+		"poster": "https://www.imdb.com/title/tt12004706/mediaviewer/rm684637185/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "5 March 2020"
+	},
+	{
+		"id": 11,
+		"name": "Bandish Bandits",
+		"rating": 8.7,
+		"description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+		"category": ["Music", "Drama", "Romance"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Ritwik Bhowmik",
+				"Shreya Chaudhary",
+				"Naseeruddin Shah",
+				"Sheeba Chaddha",
+				"Rajesh Tailang",
+				"Kunaal Roy Kapur"
+			],
+			"director": ["Anand Tiwari"]
+		},
+		"poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "4 August 2020"
+	},
+	{
+		"id": 12,
+		"name": "High",
+		"rating": 9.0,
+		"description": "Shiv Mathur is an addict and eventually finds himself in a rehab facility. The rehab is run by people who are working on a mysterious compound. This magical pill seems to have an edge above all; but is this miracle drug worth dying for?",
+		"category": ["Crime", "Drama", "Thriller"],
+		"platform": "Mx Player",
+		"casting": {
+			"actors": [
+				"Akshay Oberoi",
+				"Ranvir Shorey",
+				"Mrinmayee Godbole",
+				"Shweta Basu Prasad",
+				"Prakash Belawadi"
+			],
+			"director": ["Nikhil Rao"]
+		},
+		"poster": "https://www.imdb.com/title/tt13174524/mediaviewer/rm4241270017/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "7 October 2020"
+	},
+	{
+		"id": 13,
+		"name": "Abhay",
+		"rating": 8.0,
+		"description": "Abhay Pratap Singh, the gutsy cop who can outwit any criminal, is back. Only this time, he is up against some sharper and hardened evil masterminds. Join him as he sets out on the road to justice with a darker and edgier.",
+		"category": ["Crime", "Thriller"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Kunal Khemu",
+				"Elnaaz Norouzi",
+				"Ram Kapoor",
+				"Asha Negi",
+				"Nidhi Singh"
+			],
+			"director": ["Ken Ghosh"]
+		},
+		"poster": "https://www.imdb.com/title/tt9778022/mediaviewer/rm3951797249/?ref_=tt_ov_i",
+		"episodeCount": 16,
+		"seasons": 2,
+		"releaseDate": "14 August 2020"
+	},
+	{
+		"id": 14,
+		"name": "Aarya",
+		"rating": 7.9,
+		"description": "When her world suddenly turns upside down, will Aarya become the very thing she hated?How far will she go to survive and protect her family?",
+		"category": ["Crime", "Thriller", "Drama"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": [
+				"Sushmita Sen",
+				"Vikas Kumar",
+				"Namit Das",
+				"Sikandar Kher",
+				"Maya Sarao"
+			],
+			"director": ["Ram Madhvani", "Sandeep Modi", "Vinod Rawat"]
+		},
+		"poster": "https://www.imdb.com/title/tt12448030/mediaviewer/rm1699722497/",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "19 June 2020"
+	},
+	{
+		"id": 15,
+		"name": "Apharan",
+		"rating": 8.3,
+		"description": "Rudra Srivastava, a senior inspector with Uttarakhand police is lured into kidnapping a young girl at her request. The plot begins as a simple plan to extort money in exchange for her release. When the chain of events go wrong and a series of lies unfold, he realizes that he is now a part of a deadly conspiracy. Will he be able to escape the outcome of his choices or become a victim of the web of lies?",
+		"category": ["Crime", "Thriller", "Action"],
+		"platform": "ALT Balaji",
+		"casting": {
+			"actors": [
+				"Arunoday Singh",
+				"Mahie Gill",
+				"Nidhi Singh",
+				"Monica Chaudhary"
+			],
+			"director": ["Siddharth Sengupta"]
+		},
+		"poster": "https://www.imdb.com/title/tt8392006/mediaviewer/rm3610408448/?ref_=tt_ov_i",
+		"episodeCount": 12,
+		"seasons": 1,
+		"releaseDate": "14 December 2018"
+	},
+	{
+		"id": 16,
+		"name": "Breathe",
+		"rating": 8.3,
+		"description": "This series just asks one question - how far will you go to protect the one you love. Two desperate and driven men must engage in the ultimate cat and mouse game to save the one they love.",
+		"category": ["Thriller", "Drama"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Madhavan",
+				"Amit Sadh",
+				"Sapna Pabbi",
+				"Shriswara",
+				"Atharva Vishwakarma",
+				"Hrishikesh Joshi"
+			],
+			"director": ["Mayank Sharma"]
+		},
+		"poster": "https://www.imdb.com/title/tt6466208/mediaviewer/rm2520011520/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "26 January 2018"
+	},
+	{
+		"id": 17,
+		"name": "Bhaukaal",
+		"rating": 8.2,
+		"description": "Naveen Sikhera makes his way into the sin city as the new SSP, he is hit by the prevailing chaos and lawlessness in the city. Muzaffarnagar is ruled by Shaukeen gang in the east and the Dedha brothers rule the west.",
+		"category": ["Action", "Crime"],
+		"platform": "Mx Player",
+		"casting": {
+			"actors": [
+				"Mohit Raina",
+				"Abhimanyu Singh",
+				"Siddhant Kapoor",
+				"Bidita Bag",
+				"Sunny Hinduja"
+			],
+			"director": ["Jatin Satish Wagle"]
+		},
+		"poster": "https://www.imdb.com/title/tt9359338/mediaviewer/rm3856260353/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "6 March 2020"
+	},
+	{
+		"id": 18,
+		"name": "Dhanbad Blues",
+		"rating": 5.1,
+		"description": "Mrinal Sen is a failed director whose life takes a turn when he gets an opportunity to direct a film in Jharkhand. Hoichoi presents web-series ",
+		"category": ["Thriller"],
+		"platform": "Hoichoi",
+		"casting": {
+			"actors": [
+				"Rajatabha Dutta",
+				"Solanki Roy",
+				"Dibyendu Bhattacharya",
+				"Imran Hasnee"
+			],
+			"director": ["Sourav Chakraborty"]
+		},
+		"poster": "https://www.imdb.com/title/tt9466186/mediaviewer/rm1888783361/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "15 December 2018"
+	},
+	{
+		"id": 19,
+		"name": "Sharate Aaj",
+		"rating": 7.3,
+		"description": "This thriller drama revolves around a group of NRI Bengalis, both from India and Bangladesh, who come together to organise and celebrate Durga Puja. However, a terrorist group plans to disrupt the event.",
+		"category": ["Drama"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Danny Darren",
+				"Joy Bhowmik",
+				"Marek Hollands",
+				"Soutrik Basu"
+			],
+			"director": ["Aritra Sen"]
+		},
+		"poster": "https://www.imdb.com/title/tt9868952/mediaviewer/rm2767351040/?ref_=tt_ov_i",
+		"episodeCount": 6,
+		"seasons": 1,
+		"releaseDate": "21 February 2019"
+	},
+	{
+		"id": 20,
+		"name": "Gullak",
+		"rating": 9.1,
+		"description": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+		"category": ["Drama", "Comedy", "Family"],
+		"platform": "Sony Liv",
+		"casting": {
+			"actors": [
+				"Jameel Khan",
+				"Geetanjali Kulkarni",
+				"Vaibhav Raj Gupta",
+				"Shivankit Singh Parihar"
+			],
+			"director": ["Amrit Raj Gupta", "Palash Vaswani"]
+		},
+		"poster": "https://www.imdb.com/title/tt10530900/mediaviewer/rm167171585/",
+		"episodeCount": 10,
+		"seasons": 2,
+		"releaseDate": "27 June 2019"
+	},
+	{
+		"id": 21,
+		"name": "Yeh Meri Family",
+		"rating": 9.1,
+		"description": "Set in the summer of 1998 it is a story about conflicting emotions towards family members from the eyes of a twelve year old.",
+		"category": ["Drama", "Comedy", "Family"],
+		"platform": "TVF Play",
+		"casting": {
+			"actors": [
+				"Vishesh Bansal",
+				"Mona Singh",
+				"Akarsh Khurana",
+				"Ahan Nirban"
+			],
+			"director": ["Sameer Saxena"]
+		},
+		"poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "12 July 2018"
+	},
+	{
+		"id": 22,
+		"name": "Betaal",
+		"rating": 5.4,
+		"description": "A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.",
+		"category": ["Action", "Horror", "Thriller"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Vineet Kumar Singh",
+				"Aahana Kumra",
+				"Suchitra Pillai",
+				"Jatin Goswami"
+			],
+			"director": ["Patrick Graham", "Nikhil Mahajan"]
+		},
+		"poster": "https://www.imdb.com/title/tt10651790/mediaviewer/rm3930173697/?ref_=tt_ov_i",
+		"episodeCount": 4,
+		"seasons": 1,
+		"releaseDate": "24 May 2020"
+	},
+	{
+		"id": 23,
+		"name": "Raktanchal",
+		"rating": 7.5,
+		"description": "Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance.",
+		"category": ["Action", "Crime"],
+		"platform": "Mx Player",
+		"casting": {
+			"actors": [
+				"Nikitin Dheer",
+				"Kranti Prakash Jha",
+				"Soundarya Sharma",
+				"Ronjini Chakraborty"
+			],
+			"director": ["Ritam Srivastav"]
+		},
+		"poster": "https://www.imdb.com/title/tt12347286/mediaviewer/rm245543937/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "24 May 2020"
+	},
+	{
+		"id": 24,
+		"name": "Your Honor",
+		"rating": 7.4,
+		"description": "As the son of a reputed judge gets involved in a hit and run, we see how even the most upright people break In order to save their family. The judge sacrifices relationships and subverts the law to save his son from a vengeful gangster.",
+		"category": ["Action", "Drama", "Thriller"],
+		"platform": "Sony Liv",
+		"casting": {
+			"actors": [
+				"Jimmy Sheirgill",
+				"Varun Badola",
+				"Parul Gulati",
+				"Mita Vashisht"
+			],
+			"director": ["Eeshwar Nivas"]
+		},
+		"poster": "https://www.imdb.com/title/tt12392470/mediaviewer/rm31501057/?ref_=tt_ov_i",
+		"episodeCount": 12,
+		"seasons": 1,
+		"releaseDate": "18 June 2020"
+	},
+	{
+		"id": 25,
+		"name": "Lalbazaar",
+		"rating": 7.3,
+		"description": "A set of brave cops deal with the dark underbelly and bring some of the most sinister customers to justice.",
+		"category": ["Crime", "Drama"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Koushik Sen",
+				"Hrishitaa Bhatt",
+				"Sabyasachi Chakrabarty",
+				"Subrat Dutta"
+			],
+			"director": ["Sayantan Ghosal"]
+		},
+		"poster": "https://www.imdb.com/title/tt12416834/mediaviewer/rm4258376193/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "19 June 2020"
+	},
+	{
+		"id": 26,
+		"name": "Crackdown",
+		"rating": 7.5,
+		"description": "A secret service unit, a sinister terror plot, and several innocent lives on the line. Top agent, RP, and his team lead the charge to neutralize the enemies. With time running out, can they eliminate the threat before it eliminates them?",
+		"category": ["Crime", "Drama", "Action"],
+		"platform": "Voot",
+		"casting": {
+			"actors": [
+				"Saqib Saleem",
+				"Shriya Pilgaonkar",
+				"Iqbal Khan",
+				"Rajesh Tailang"
+			],
+			"director": ["Apoorva Lakhia"]
+		},
+		"poster": "https://www.imdb.com/title/tt12701270/mediaviewer/rm3460735233/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "23 September 2020"
+	},
+	{
+		"id": 27,
+		"name": "Avrodh the Siege Within",
+		"rating": 7.7,
+		"description": "It is a War Thriller based on the theme of Indian Army and Uri Surgical Strike.",
+		"category": ["Action"],
+		"platform": "Sony Liv",
+		"casting": {
+			"actors": [
+				"Amit Sadh",
+				"Vikram Gokhale",
+				"Neeraj Kabi",
+				"Darshan Kumaar"
+			],
+			"director": ["Raj Acharya"]
+		},
+		"poster": "https://www.imdb.com/title/tt12392458/mediaviewer/rm1217375233/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "31 July 2020"
+	},
+	{
+		"id": 28,
+		"name": "JL50",
+		"rating": 7.5,
+		"description": "A plane is discovered to have recently crashed in West Bengal. However, what is so baffling about the incident is that plane originally went missing 35 years ago.",
+		"category": ["Drama", "Sci-Fi", "Thriller"],
+		"platform": "Sony Liv",
+		"casting": {
+			"actors": ["Abhay Deol", "Pankaj Kapur", "Ritika Anand", "Piyush Mishra"],
+			"director": ["Shailender Vyas"]
+		},
+		"poster": "https://www.imdb.com/title/tt7441984/mediaviewer/rm816947457/?ref_=tt_ov_i",
+		"episodeCount": 5,
+		"seasons": 1,
+		"releaseDate": "4 September 2020"
+	},
+	{
+		"id": 29,
+		"name": "Pariwar",
+		"rating": 6.9,
+		"description": "A loving father who misses his wayward quarrelsome children will stop at nothing to make sure they come home, and Kashiram Narayan knows just the right tricks.",
+		"category": ["Comedy"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": ["Gajraj Rao", "Vijay Raaz", "Yashpal Sharma", "Ranvir Shorey"],
+			"director": ["Sagar Ballary"]
+		},
+		"poster": "https://www.imdb.com/title/tt13124352/mediaviewer/rm2919016193/?ref_=tt_ov_i",
+		"episodeCount": 6,
+		"seasons": 1,
+		"releaseDate": "23 September 2020"
+	},
+	{
+		"id": 30,
+		"name": "Black Widows",
+		"rating": 7.3,
+		"description": "Tired of their abusive husbands, three women plan and execute their murders. It is an almost perfect plan, till Pankaj Mishra - assigned to the case -- realises there is more to it than met the eye.",
+		"category": ["Crime", "Drama", "Mystery"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Shruti Vyas",
+				"Nikhil Bhambri",
+				"Shaheb Chattopadhyay",
+				"Faisal Malik"
+			],
+			"director": ["Birsa Dasgupta"]
+		},
+		"poster": "https://www.imdb.com/title/tt13032762/mediaviewer/rm1480184321/?ref_=tt_ov_i",
+		"episodeCount": 12,
+		"seasons": 1,
+		"releaseDate": "18 December 2020"
+	},
+	{
+		"id": 31,
+		"name": "Taqdeer",
+		"rating": 8.9,
+		"description": "Freezer van driver Taqdeer spirals into a dark game of destiny after he finds the unclaimed dead body of a woman in his truck.",
+		"category": ["Crime", "Thriller", "Mystery"],
+		"platform": "Hoichoi",
+		"casting": {
+			"actors": [
+				"Chanchal Chowdhury",
+				"Sanjida Preeti",
+				"Manoj Kumar Pramanik",
+				"Shohel Mondol"
+			],
+			"director": ["Syed Ahmed Shawki"]
+		},
+		"poster": "https://www.imdb.com/title/tt13582638/mediaviewer/rm4029010433/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "18 December 2020"
+	},
+	{
+		"id": 32,
+		"name": "Paurashpur",
+		"rating": 8.0,
+		"description": "In a kingdom dominated by men, it is the ultimate battle of the sexes to win the war being waged against gender equality. Every character is grey and they must fight for what they believe is right in order to survive in Paurashpur.",
+		"category": ["Drama"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Annu Kapoor",
+				"Shilpa Shinde",
+				"Milind Soman",
+				"Shaheer Sheikh"
+			],
+			"director": ["Baljit Singh Chaddha"]
+		},
+		"poster": "https://www.imdb.com/title/tt13439476/mediaviewer/rm868736257/?ref_=tt_ov_i",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "29 December 2020"
+	},
+	{
+		"id": 33,
+		"name": "Tandav",
+		"rating": 3.8,
+		"description": "Tandav is a story that happens in the capital city of the world's largest democracy - DILLI (New Delhi), where it takes you inside the closed, chaotic doors of power and manipulation and uncover the darkest lanes of Indian politics.",
+		"category": ["Drama", "Thriller"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Saif Ali Khan",
+				"Dimple Kapadia",
+				"Mohd. Zeeshan Ayyub",
+				"Sunil Grover"
+			],
+			"director": ["Ali Abbas Zafar"]
+		},
+		"poster": "https://www.imdb.com/title/tt11117570/mediaviewer/rm3009728513/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "15 January 2021"
+	},
+	{
+		"id": 34,
+		"name": "Crashh",
+		"rating": 8.8,
+		"description": "A happy family was torn apart by a fateful accident. When fate brings them together will Kabir, Kajol, Alia and Rahim realise that they are family? Will these long lost siblings find their long lost love for each other?",
+		"category": ["Romance"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": ["Kunj Anand", "Aditi Sharma", "Anushka Sen", "Zain Imam"],
+			"director": ["Kushal Zaveri"]
+		},
+		"poster": "https://www.imdb.com/title/tt13529854/mediaviewer/rm3284915201/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "14 February 2021"
+	},
+	{
+		"id": 35,
+		"name": "Chacha Vidhayak Hain Hamare",
+		"rating": 7.7,
+		"description": "Ronny's whole life is based on a lie. To the world he is the nephew of the local MLA and a youth leader who solves people's problems. But in reality, Ronny is a jobless 25 year old with no relation to the MLA who shares his surname.",
+		"category": ["Comedy"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": ["Zakir Khan", "Kumar Varun", "Vyom Sharma", "Alka Amin"],
+			"director": ["Vikas Chandra"]
+		},
+		"poster": "https://www.imdb.com/title/tt8254592/mediaviewer/rm1235189248/?ref_=tt_ov_i",
+		"episodeCount": 16,
+		"seasons": 2,
+		"releaseDate": "11 May 2018"
+	},
+	{
+		"id": 36,
+		"name": "Sunflower",
+		"rating": 7.5,
+		"description": "A quirky murder mystery based in a housing society called Sunflower. Its simpleton resident Sonu dives headlong into a murder mystery and becomes the chief suspect. What happens next?",
+		"category": ["Comedy", "Crime"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": ["Sunil Grover", "Ashish Vidyarthi", "Ranvir Shorey"],
+			"director": ["Vikas Bahl"]
+		},
+		"poster": "https://www.imdb.com/title/tt13304410/mediaviewer/rm3212363009/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "11 June 2021"
+	},
+	{
+		"id": 37,
+		"name": "Little Things",
+		"rating": 8.3,
+		"description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
+		"category": ["Comedy", "Romance"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Dhruv Sehgal", "Mithila Palkar", "Abhishek Bhalerao"],
+			"director": ["Ajay Bhuyan", "Sumit Arora", "Ruchir Arun"]
+		},
+		"poster": "https://www.imdb.com/title/tt6522580/mediaviewer/rm1326676992/?ref_=tt_ov_i",
+		"episodeCount": 21,
+		"seasons": 3,
+		"releaseDate": "25 October 2016"
+	},
+	{
+		"id": 38,
+		"name": "Hundred",
+		"rating": 6.8,
+		"description": "An unapologetic and frustrated ACP teams up with an honest civil worker who teams up to accomplish their personal objectives.",
+		"category": ["Comedy", "Drama"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": ["Lara Dutta", "Gautami Kapoor", "Karan Wahi"],
+			"director": ["Ruchi Narain", "Ashutosh Shah", "Taher Shabbir"]
+		},
+		"poster": "https://www.imdb.com/title/tt12207704/mediaviewer/rm3962811137/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "25 April 2020"
+	},
+	{
+		"id": 39,
+		"name": "Delhi Crime",
+		"rating": 8.5,
+		"description": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+		"category": ["Crime", "Drama"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Shefali Shah", "Rasika Dugal", "Rajesh Tailang"],
+			"director": ["Richie Mehta"]
+		},
+		"poster": "https://www.imdb.com/title/tt9398466/mediaviewer/rm527785984/?ref_=tt_ov_i",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "22 March 2019"
+	},
+	{
+		"id": 40,
+		"name": "Jamtara: Sabka Number Ayega",
+		"rating": 7.3,
+		"description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
+		"category": ["Crime"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Amit Sial", "Dibyendu Bhattacharya", "Aksha Pardasany"],
+			"director": ["Soumendra Padhi"]
+		},
+		"poster": "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
+		"episodeCount": 11,
+		"seasons": 1,
+		"releaseDate": "10 January 2020"
+	},
+	{
+		"id": 41,
+		"name": "Hostel Daze",
+		"rating": 8.6,
+		"description": "Through the adventures of four friends 'Hostel Daze' captures what goes inside an engineering hostel in India.",
+		"category": ["Comedy", "Drama"],
+		"platform": "Amazon Prime Video",
+		"casting": {
+			"actors": [
+				"Adarsh Gourav",
+				"Nikhil Vijay",
+				"Shubham Gaur",
+				"Ahsaas Channa"
+			],
+			"director": ["Raghav Subbu", "Amir Musanna", "Sangram Naiksatam"]
+		},
+		"poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 2,
+		"releaseDate": "13 December 2019"
+	},
+	{
+		"id": 42,
+		"name": "Illegal - Justice,Out of Order",
+		"rating": 7.5,
+		"description": "An idealistic lawyer is trapped in the murky world of criminal law. Two cases (one about the death penalty for women in India, the other about sexual harassment in the workplace) show how out of order the justice system can be.",
+		"category": ["Comedy", "Drama", "Thriller"],
+		"platform": "Voot",
+		"casting": {
+			"actors": ["Neha Sharma", "Akshay Oberoi", "Piyush Mishra"],
+			"director": ["Sahir Raza"]
+		},
+		"poster": "https://www.imdb.com/title/tt10308632/mediaviewer/rm3671308033/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "12 May 2020"
+	},
+	{
+		"id": 43,
+		"name": "The Gone Game",
+		"rating": 7.8,
+		"description": "In the midst of a pandemic, Sahil Gujral goes missing. Thought to be a victim of the coronavirus at first, his death points to a mysterious crime.",
+		"category": ["Crime", "Thriller"],
+		"platform": "Voot",
+		"casting": {
+			"actors": [
+				"Sanjay Kapoor",
+				"Arjun Mathur",
+				"Shweta Tripathi",
+				"Shriya Pilgaonkar"
+			],
+			"director": ["Nikhil Bhat"]
+		},
+		"poster": "https://www.imdb.com/title/tt12768990/mediaviewer/rm3545801473/?ref_=tt_ov_i",
+		"episodeCount": 4,
+		"seasons": 1,
+		"releaseDate": "20 August 2020"
+	},
+	{
+		"id": 44,
+		"name": "Baarish",
+		"rating": 8.2,
+		"description": "The series revolves around a millionaire Gujarati businessman Anuj (Sharman Joshi) and a Marathi girl Gauravi (Asha Negi) who are two complete strangers hailing from completely different backgrounds.",
+		"category": ["Romance", "Sitcom"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": [
+				"Asha Negi",
+				"Sharman Joshi",
+				"Vikram Singh Chauhan",
+				"Priya Banerjee"
+			],
+			"director": ["Nandita Mehra"]
+		},
+		"poster": "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
+		"episodeCount": 40,
+		"seasons": 2,
+		"releaseDate": "25 April 2019"
+	},
+	{
+		"id": 45,
+		"name": "Gandii Baat",
+		"rating": 3.4,
+		"description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
+		"category": ["Romance"],
+		"platform": "Alt Balaji",
+		"casting": {
+			"actors": [
+				"Asha Negi",
+				"Sharman Joshi",
+				"Vikram Singh Chauhan",
+				"Priya Banerjee"
+			],
+			"director": ["Nandita Mehra"]
+		},
+		"poster": "https://www.imdb.com/title/tt8228316/mediaviewer/rm66115073/",
+		"episodeCount": 25,
+		"seasons": 5,
+		"releaseDate": "23 April 2018"
+	},
+	{
+		"id": 46,
+		"name": "The final Call",
+		"rating": 4.4,
+		"description": "cThe Final Call is a 2019 Indian web television thriller series based on 2015 novel I Will Go with You by Priya Kumar..",
+		"category": ["Suspense"],
+		"platform": "Zee5",
+		"casting": {
+			"actors": [" Priya Kumar", "Sharman Joshi"],
+			"director": ["Vijay Lalwani"]
+		},
+		"poster": "https://www.google.com/search?q=the+final+call+cast&client=safari&rls=en&sxsrf=AOaemvJUOXpT9dZ-7YldlRuDWi1LyoFQxQ:1633024868532&tbm=isch&source=iu&ictx=1&fir=7UTj8HuB5xmTLM%252CpZImB9hK62uxtM%252C_%253BfY5tRerhPzLEGM%252CsOrtqNcCkxcYVM%252C_%253BkxGF36-vnxUndM%252CKLKJg9W9czwGsM%252C_%253B194F_B6PBovLJM%252CLvzz-JFzpsDrtM%252C_%253BLg1uKypiyuChpM%252CzxSTkxbkqbbi1M%252C_%253B380HEuLutKiPmM%252CY4BcYd0m0QAyxM%252C_&vet=1&usg=AI4_-kTlRKsr60C2ZSo8kdrCuh2RQr8kMw&sa=X&ved=2ahUKEwjvocrZo6fzAhWEyDgGHeS6DuUQ_B16BAg9EAE#imgrc=7UTj8HuB5xmTLM",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "23 April 2019"
+	},
 
-  {
-    "id": 51,
-    "name": "November Story",
-    "rating": 8.0,
-    "description": "A celebrated crime novelist suffering from Alzheimer's is found at a murder scene with no memory of what happened. Now, it is up to his daughter to save him.",
-    "category": ["Crime"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": ["Tamanna Bhatia", "G.M Kumar", "PashuPathi M", "Namita Krishnamurthy"],
-      "director": ["Indhra Subramanian"]
-    },
-    "poster": "https://en.wikipedia.org/wiki/November_Story#/media/File:November_Story_Poster.png",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "20 May 2021"
-  },
-  {
-  "id": 52,
-  "name": "Flames",
-  "rating": 9.1,
-  "description": "A teenage romance from The Timeliners that aims straight from the heart. This web-series is the story of a young romance unfolding as a chemical reaction.",
-  "category": ["Comedy", "Romance"],
-  "platform": "Mx Player",
-  "casting": {
-    "actors": ["Ritvik Sahore", "Tanaya Maniktala", "Sunakshi Grover", "Shivam Kakar"],
-    "director": ["Raghav Subbu"]
-  },
-  "poster": "https://www.imdb.com/title/tt7927936/mediaviewer/rm1110346497/?ref_=tt_ov_i",
-  "episodeCount": 5,
-  "seasons": 2,
-  "releaseDate": "18 Oct 2019"
-},{
-    "id": 53,
-    "name": "Inside Edge",
-    "rating": 8,
-    "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
-    "category": ["Sport", "Drama"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
-      "director": ["Karan Anshuman"]
-    },
-    "poster": "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
-    "episodeCount": 24,
-    "seasons": 2,
-    "releaseDate": "22 July 2017"
-  },
-  {
-    "id": 54,
-    "name": "Maharani",
-    "rating": 7.5,
-    "description": "This is a fictional story, where Rani Bharti (Huma Qureshi) is a homemaker and the wife of Bihar's chief minister Bheema (Sohum Shah). All she cares about is her house and her husband. ",
-    "category": ["Drama"],
-    "platform": "SonyLIv",
-    "casting": {
-      "actors": ["Huma Qureshi", "Sohum Shah", "Pramod Pathak"],
-      "director": ["Karan Sharma"]
-    },
-    "poster": "https://wikitokbio.com/wp-content/uploads/2021/05/Maharani_Web_Series_cast_story.webp",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "28 May 2021"
+	{
+		"id": 48,
+		"name": "Dark",
+		"rating": 4.8,
+		"description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
+		"category": ["Mystery"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Louis Hofmann",
+				"Andreas Pietschmann",
+				"Ella Lee",
+				"Lisa Vicari"
+			],
+			"director": ["Baran bo Odar"]
+		},
+		"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsGlRa-W2Z5dTx2ZC9nK_88u1NlwUhnxKCkPFAJvoD8mFeu3f0HEuvAERtHxwEcfYFMg&usqp=CAU",
+		"episodeCount": 26,
+		"seasons": 3,
+		"releaseDate": "1 December 2017"
+	},
+	{
+		"id": 49,
+		"name": "Criminal Justice",
+		"rating": 8.1,
+		"description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+		"category": ["Mystery", "Drama"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": [
+				"Mayur More",
+				"Jitendra Kumar",
+				"Revathi Pillai",
+				"Urvi Singh",
+				"Alam Khan",
+				"Ahsaas Channa",
+				"Ranjan Raj"
+			],
+			"director": ["Raghav Subbu"]
+		},
+		"poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "5 April 2019"
+	},
+	{
+		"id": 50,
+		"name": "30 weds 21",
+		"rating": 8.0,
+		"description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
+		"category": ["Romance", "Comedy"],
+		"platform": "Youtube",
+		"casting": {
+			"actors": ["Chaitanya Madadi", "Chaitanya Rao", "Ananya"],
+			"director": ["Prithvi Vanam"]
+		},
+		"poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjc1Y2QyM2UtNzNmZC00MjIxLWI1ZTQtMzQxZDhjZWU5MjhiXkEyXkFqcGdeQXVyMTMyNDIyMDYz._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14631516%2F&tbnid=UWIZc5qJxBIXiM&vet=12ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ..i&docid=4IfXl4927M1VqM&w=1000&h=1202&q=30%20weds%2021%20poster&ved=2ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ",
+		"episodeCount": 6,
+		"seasons": 1,
+		"releaseDate": "2 May 2021"
+	},
 
-  },
-   {
-  "id": 55,
-  "name": "Asur",
-  "rating": 8.1,
-  "description": "Asur is a 2020 Indian Hindi-language crime thriller web series, produced by Tanveer Bookwala of Ding Entertainment for the video on demand platform Voot.[2] The series stars Arshad Warsi, Barun Sobti and Amey Wagh. The series is set in the context of a modern day serial killer having religious ties. Arshad Warsi made his OTT debut through this series",
-  "category": ["Horrible", "Comedy"],
-  "platform": "Netflix",
-  "casting": {
-    "actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
-    "director": ["Raghav Subbu"]
-  },
-  "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
-  "episodeCount": 10,
-  "seasons": 1,
+	{
+		"id": 51,
+		"name": "November Story",
+		"rating": 8.0,
+		"description": "A celebrated crime novelist suffering from Alzheimer's is found at a murder scene with no memory of what happened. Now, it is up to his daughter to save him.",
+		"category": ["Crime"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": [
+				"Tamanna Bhatia",
+				"G.M Kumar",
+				"PashuPathi M",
+				"Namita Krishnamurthy"
+			],
+			"director": ["Indhra Subramanian"]
+		},
+		"poster": "https://en.wikipedia.org/wiki/November_Story#/media/File:November_Story_Poster.png",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "20 May 2021"
+	},
+	{
+		"id": 52,
+		"name": "Flames",
+		"rating": 9.1,
+		"description": "A teenage romance from The Timeliners that aims straight from the heart. This web-series is the story of a young romance unfolding as a chemical reaction.",
+		"category": ["Comedy", "Romance"],
+		"platform": "Mx Player",
+		"casting": {
+			"actors": [
+				"Ritvik Sahore",
+				"Tanaya Maniktala",
+				"Sunakshi Grover",
+				"Shivam Kakar"
+			],
+			"director": ["Raghav Subbu"]
+		},
+		"poster": "https://www.imdb.com/title/tt7927936/mediaviewer/rm1110346497/?ref_=tt_ov_i",
+		"episodeCount": 5,
+		"seasons": 2,
+		"releaseDate": "18 Oct 2019"
+	},
+	{
+		"id": 53,
+		"name": "Inside Edge",
+		"rating": 8,
+		"description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
+		"category": ["Sport", "Drama"],
+		"platform": "Amazon Prime",
+		"casting": {
+			"actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
+			"director": ["Karan Anshuman"]
+		},
+		"poster": "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
+		"episodeCount": 24,
+		"seasons": 2,
+		"releaseDate": "22 July 2017"
+	},
+	{
+		"id": 54,
+		"name": "Maharani",
+		"rating": 7.5,
+		"description": "This is a fictional story, where Rani Bharti (Huma Qureshi) is a homemaker and the wife of Bihar's chief minister Bheema (Sohum Shah). All she cares about is her house and her husband. ",
+		"category": ["Drama"],
+		"platform": "SonyLIv",
+		"casting": {
+			"actors": ["Huma Qureshi", "Sohum Shah", "Pramod Pathak"],
+			"director": ["Karan Sharma"]
+		},
+		"poster": "https://wikitokbio.com/wp-content/uploads/2021/05/Maharani_Web_Series_cast_story.webp",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "28 May 2021"
+	},
+	{
+		"id": 55,
+		"name": "Asur",
+		"rating": 8.1,
+		"description": "Asur is a 2020 Indian Hindi-language crime thriller web series, produced by Tanveer Bookwala of Ding Entertainment for the video on demand platform Voot.[2] The series stars Arshad Warsi, Barun Sobti and Amey Wagh. The series is set in the context of a modern day serial killer having religious ties. Arshad Warsi made his OTT debut through this series",
+		"category": ["Horrible", "Comedy"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
+			"director": ["Raghav Subbu"]
+		},
+		"poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+		"episodeCount": 10,
+		"seasons": 1,
 
-  "releaseDate": "5 April 2019"
-},
-{
-    "id": 48,
-    "name": "TVF Pitchers",
-    "rating": 9.1,
-    "description": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
-    "category": ["Comedy", "Drama"],
-    "platform": "TVF Play",
-    "casting": {
-      "actors": ["Naveen Kasturia", "Arunabh Kumar", "Jitendra Kumar", "Abhay Mahajan", "Akanksha Thakur", "Maanvi Gagroo"],
-      "director": ["Amit Golani"]
-    },
-    "poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
-    "episodeCount": 5,
-    "seasons": 1,
-    "releaseDate": "3 June 2015"
-  },
-  {
-    "id": 56,
-    "name": "She",
-    "rating": 6.5,
-    "description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
-    "category": ["crime", "drama"],
-    "platform": "Netflix",
-    "casting": {
-    "actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
-    "director": ["Raghav Subbu"]
-  },
-  "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
-  "episodeCount": 10,
-  "seasons": 1,
-  "releaseDate": "8 Sept 2019
-  }, 
-  {
-    "id": 57,
-    "name": "Bard of Blood",
-    "rating": 6.9,
-    "description": "Bard of Blood is an Indian spy thriller streaming television series based on the 2015 espionage novel of the same name by Bilal Siddiqi.[1][2] Directed by Ribhu Dasgupta and produced by Red Chillies Entertainment",
-    "category": ["Action"],
-    "platform": "NetFlix",
-    "casting": {
-      "actors": ["Imrean HAshmi", "Sobhita Dhulipala", "Shishir Sharma"],
-      "director": ["Ribhu Dasgupta"]
-    },
-    "poster": "data:image/jpeg;base64,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",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": " 27 September 2019"
-  },
-  {
-    "id": 58,
-    "name": "Operation MBBS",
-    "rating": 8.9,
-    "description": "First-year MBBS students face bullies, personal issues and several other ups and downs in their quest to earn a medical degree.",
-    "category": ["Drama"],
-    "platform": "Youtube",
-    "casting": {
-      "actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"]
-      "director": ["Arif Ali Avinash Das"]
-    },
-    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "20 March 2020"
-  
-  },
+		"releaseDate": "5 April 2019"
+	},
+	{
+		"id": 48,
+		"name": "TVF Pitchers",
+		"rating": 9.1,
+		"description": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
+		"category": ["Comedy", "Drama"],
+		"platform": "TVF Play",
+		"casting": {
+			"actors": [
+				"Naveen Kasturia",
+				"Arunabh Kumar",
+				"Jitendra Kumar",
+				"Abhay Mahajan",
+				"Akanksha Thakur",
+				"Maanvi Gagroo"
+			],
+			"director": ["Amit Golani"]
+		},
+		"poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
+		"episodeCount": 5,
+		"seasons": 1,
+		"releaseDate": "3 June 2015"
+	},
+	{
+		"id": 56,
+		"name": "She",
+		"rating": 6.5,
+		"description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
+		"category": ["crime", "drama"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
+			"director": ["Raghav Subbu"]
+		},
+		"poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "8 Sept 2019"
+	},
+	{
+		"id": 57,
+		"name": "Bard of Blood",
+		"rating": 6.9,
+		"description": "Bard of Blood is an Indian spy thriller streaming television series based on the 2015 espionage novel of the same name by Bilal Siddiqi.[1][2] Directed by Ribhu Dasgupta and produced by Red Chillies Entertainment",
+		"category": ["Action"],
+		"platform": "NetFlix",
+		"casting": {
+			"actors": ["Imrean HAshmi", "Sobhita Dhulipala", "Shishir Sharma"],
+			"director": ["Ribhu Dasgupta"]
+		},
+		"poster": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBcVFRUYFxcZGhkdGRkaGh4eIhwiGBcZGR4YGSAdICwjICEpIR0cJDYkKS0vMzMzGSI4PjgyPSwyMy8BCwsLDw4PHhISHS8pIykyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAgMEBQYHAQj/xABKEAACAQMDAQYEAgcEBwcDBQABAhEAAyEEEjFBBQYTIlFhMnGBkUKhByNSscHR8BRysuEzYnOCkqLxFSRDU5Oz0lRjgxYXJTRE/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAJREAAgIBBAICAgMAAAAAAAAAAAECESEDEjFBBFETkSKBFHGh/9oADAMBAAIRAxEAPwCwEn5VxZ9PnRwv9TSWqcquBuYkADiSf3dT9K5BED3r1WoUW00wU3CXJWZJVUIJA4AEgyTztGZin3Yt8C3atH/SJbAYCSBsOw565FM+0uzLty5aurcCPbDiNmCHGVOZiRzM5kQagh26uzw7f6u/4txCpkx4hO5yTkgQDJz5QOtWlawOia7BtKGvXiDuvXH+IydttiiifQwT9R6VLLczzj0/rpzUNpbioqos7UAUTnAEUre1y20diR5F3EdesfcgiodtlUVz9IPae+6llT5bQlv77j+Cx/xGnH6NNLZNx7l1k3SEtIxEyRuZgD/ugH2NU1rr3LhYglnYn5ljwPvFal3b7prauJdZ9zKgG3asbjkn+XX36Vs6SoOEXNVEYqC73doJasTcJCs6K20EllLAuogYlA3MdanGMCc/TP2iqhqO9S3fGs27Nxrom2lsgAkt5C7EmFALAdT7VKQiR7K8PU6VZQ7DPlZSpUhyQQOQeGB9xTXu1rBaZ9FcuKXtu3hHcCXRtziBMgr5lI6bantDpvDtpbknaqrJMnygDJ61Wu1uyRb11nWBLYTAuluZ+EXAOhXyCRkzFUhFre6qqWYgKBkkwPmaq2t/SJpLZIUPd91iPoTFUfvh3muam4yKSLSkhVHWPxN6zVVc+uaah7Hwan/+5Kk+S0OvxGD8uImpjs/vxauAAgKZyCcZHQ461io4pzb1eCuR7j5Z/nRLT9DUl2eidFq0urK/UdR7EUx7waHUXBaGnurb23Va6SWkosiBt55nbicZFZp3O1F5tbZAY7cbiOqhSOPcY+nWtiX1/jUcMbQgtvaIEx7mT9yZorg0uWHGJiYojJSEJNSDGl3WkWFAhMmiE0owpM0CBQrlCgDtdFFoUAKhq6DSYo4NAztRdztcKzBlhQbg3T1toHiI6iftUpNRuq7Kt3FZW3eZ/EkHIMRjHFAhke8ANsOLcnazMu74YcIBMZmaXHbCF7SAT4q7pn4cGAfckEfSopexBbVrKWbrW22r4hupMCTIkTj+Aoidjm3cR0s3W2AbSbyAGdpMgr6j9/rVUgD2O1Nc9q3dW3pgtxQygtdBAZLtwSfD2kxbaQpJErMA02HeLU+G1x/7JbVLdl23G9xfRXQAi2QXIY+QEnyMYgTRf+x9TbS0tu7fi3t2qDZBUIDtVm2TcUb3ENI5xS1js3VsdrXbyqXDyV0zBSqhVZRs8sBEACxAFV+ADvSdt3PHaxdFneFtEG0X8pu7oW4txVZWAAJWJG4fSwzULouwwlx7ty41242zJVE+BmaYRVBJLGSZmpiolV4AZeKBj9/3pjqdSN9vPVvXnYYPyiabJ2gGZkE+WJMYznHrUJ3j14thAsF2Y7VnkkFAec5YenHNZpW6GkLdu9t+GpgbmY7UAJnODPyzx/nVSW+q3izYdiOZJjy9fWJ+1Hu3Cjl2uLcuny7cKLeTMz0j71H6nTh3Jk5jPvHQHp7+1bRikWkWX/tIA7UG9vQEQP7x4A/OoHtxDvDOw3uJZVnaI+H3J5yaVW4tsASFFRmp1QZy0yZx8hxRFZHJJE73csTdUwD4S7o4ljJAP1P/AC1qPZerG0biAcYmfiIA/MgfWsd7M7V2llcRvPx/P19qtGg19z4d2PgDywC7lMBtmQDjI9+YiiSdieVg1DU6c3LZVX2k9Yn6ev1Gar/beqsaP9Z/ZtrBrYlUEMqSdqOBAjna20mPrUzprdw2wN6q4IkiXAEmQJifnXe1NMjC14u0qLitLQIKqzbp4AEE0kQLWH3oG2su4Aw0SJ6HaSPsTVA/SXd1FsA7l8FxsAjzBvI7Z9JRY+RqV7zam4t60bN5TbtLv8G3cLF24RGW2JtoQY3SVmMU2/Sdp7j2LTAALbG+4s5UuQikeseYH6U48gZQ44MzQQcjg9P5V1kGaIwrYQZSP8qUsPkED+vlS+h0O8SeKmdH2aCYCiolqJGkdKUiW7o9h3LlybDEC15pbG4iHVP7rQo+5rYFUckYjiPc1SO5TeFc8NRKkZPuBFXkuJj+s5rnUtzs01IbKQVh7H5/ak3TrR7BlRmcQDIO70bETPNHdRxVmI1AkTMj2zSbLTkW1WdoAkk4EZOSfrSLigBs60m1LuKrXZuk1S3L7XDCXQSm193hsGcKIIgEoU4kTbPrQSTlcqqPptcbS2/P/odjbntyX8JhO4EEHftznEGealNC2qW4/igsjOQm0JCjc5VgQ26Nm0EETPE0UBMUKrZ0urt3Ga2Sy3Lzs0m3hfEs7TmDAti4IycijdnaTU27FwSfF2WgksGyqAPBJInmCcTFFAWMUYVXNDpdVvu3LjHebOy1JQ7T4l0iQPLuC+HOYJnMDCVte0Dtkx5T1t8/rMuM5zb2hSYgyTRQFqFFNVtRr2KNJQbgSpNsyPEsgq0T+Dxjg+ntXdBa1a2rzPuN5gm3zW/iCAMU/CFmSA2TiaKAsBotVvw+0MEOJCkAN4cExqIZ4k/+RwfXnNGTs++9oK5uBjqLdxpZJKAoSG2+WMHyj0ooCxVyq9ZXWkL4jtbAnewFtidto5AAODczAEx6VIdjXrrWx4ykOVVieB593kA5lQBMjrSaAkqFcrtIDFu0NZe8bbvKqBG7AgH8T7TAOD7wfWo/UXIJ3tuO2Pi3A59xI9fWYzTJ7hJMmZyff3ooBroSodj612gVUKAMdTjn1/nSN7VOxyftTfZTpNBcI3eG20AmSDwBJopDtjRmrqITSmzrFPdNY3CSY9PQ0N0CjY30yQwODBGOnPX2q7dm6y1b3ObV1woBubbluJDKQYkyF5ggzIxUb2R2EbhCq6AtPlIJX7iDx8ulSnePs8afTorm2zq2zZbTybj/AKxuFy4Gdo9cjIqbTY+MFl13fa3Ytq62htZiSvijcCSGPlCwV9yepioe93g1Gqdbb2gVPxp4bQEucM0uvSQNxCkZzOGmg7r6q14L+GWvfGFdA9tckgud/lYjGQI6Zqb1PeA2bj3rnh2tQgCXbXnZriyFRkIwVA8w9DOYJpY6ESvYeltaW0Lave2DK7rlgmTJOFJAE9B69aqek7SvahtVb1hIYW/DCqyq5AYvCqVKtEgkwp4yKkT+khbgfbpyrQdh3gmYwWG0cH0JquWe8KW7VxGtm7duyGuMQPKQBtDZY8ew45ppMRXP7MQxU8AkEjgEU2fNSC3wXuBF2hmlQxBKg9AYznrHEU2dYZZESc/fNUmNrCZKdlM2wAjjj3qa0oPSai1aB5fpOaQu3LsEB2B9iR84Agfmawa3M609qS5Lt2Zq/AdX3AdDuwI3DdPpWhnUh4dQQp4JESJIDQeh6eoiso7mqi3/AA9SAyXRsljJViwZWk+hA9jWmjUDw7ZknDKZ5lCdwMDnBwBURSToWrbSbRI2j6wf+vH9elH2RTXS3AwkfmCCJAIBByD7H1p2GzH9D+p/KtDlEmWkChxmT19/f2pwloAAZwMZJ+88/Wm5c7tp/dQAk4pBhTp1ps60hCRqD7a7WuWrnhrbJDWnYOMkMFcgRHHlGcjzZjEzjnrRN2Y6j+Imi1dCK0neG6X2KlskMEAJO5ibiWy+M7V3Eny4wJ603t9tapyHVNqgbzbOJ/7raueGGKcb3bPMjmMVZ00ttGLqiKxncwUAmcmSMmj3UVwUdQwI8ysJBBE5B9jT3K6Arl7t+8A1xbW9SgdVMiF8J7oGFJ3EBRB4J+7rR9uvca95UAtLdKrJ3Obbss+seUZjlwOmZuYHsKRs6a2jErbRWbLFVAJnOSBnP50t0brsCGHb92VU2BJcLgtBlrQ8vl6C4WM9LZ+jG32/qtm4oDusgnapBS4U1LGJUyQbaAqeCRzNW4tXA+Y9gfvRuSdAV293guoDutCJCqZMn9aLZJEAcHcAD0Oamezb5uWrdxtu5lBOwysnkKeoHE+1L6iyjrtuKrrzDAEY6waCKFAVQAIEAYAHoAOKHJcAHoUKFAAoTQoUgMIsdkueYX8z+VP17JtrtkliT8vwk9M9KUW978Uot4Ej5n9xrRykzfYkOtPbS2DtRR9M/ejdo6s27JKZL4PXbIwT65ikd24YpE2xde3ZJ8oYEhWggbTuJ9siPnSXORSWCBGTHU/vNS7N4acbl4/r1FKL2QLeoZRlBG0k9SMyfbP5VIaiwFHIOM9ecUTksDhwG7E1G9UVQVuAGCCQUAwXPvHHrIq5d09VavExbIWyTsL+bcX8xuEkfHIJ5kbjgTWa6fTvvYDLCJVuoWAMcMP51oHY3bKWAPFKW1MyDgFiSSycnJMRnkcU2q4IlkvDkjzBiImQTjMGfmOnTJrPP0n2bRW1dZ9t0Sqr8RcYPX4dvJ5+IDmKt+l7Ws3QreKo5IUvt5WADwDgkweD0BFZD3n7TOp1L3JJQErbHooJiPnk/WOgpwWSBlo7SMSXbwwOCOuOBP8AOmV4gGVbdn0I/I0u7kIVKgjoeo+X8q4lhnRiEJiDI5Ag8jqMc1oAlvLGRgjium/Mh/Q7T74iuJM4FKPEUCDW3Jhpz86meztWv4xVdM8jFcd2iD+VRKCkaQ1HEnT2oqMDySwzOFrUrnaDh9MHe3tu+UypBNzamZBgFnxBBksM+uRdj3V8W3CHyndI58vm5GYxVx7b7SW6DbDT+IlZlWKgEqfUEK3sRWc41JUinqOUcmmWlO0jI5E9RI5GImnGktbEVBJ2gCWO4mMbmJySeSepqH7v9qi/pbV5yZZSHABP6xCVcCPdWgdZEVNadwwVlMqcg+og/UfwigzOhZM59Ocfb/KjMvtXNRYVgVKBleQ/TG3r6nAHT8qV24if6+tADO4MxnieDHMc8T7Ui607uBtwhhthpEZJ8sbTMADM4PI46o3FoEMVVGcW33ZmCDgxkg4xXe1vDQhyHLv5QFwDHU4xj91Gv22mUMNBExxPJE9aZrp3ChS5dQdw3GSDmYJzGTXk63h60vJWrGTUV1f2aKUVCqyG04VmFu4HBbgg4MCSDjFOO2BbtkXCHLtCKFwDEnOMY/dSDhgZQw0EAxMT1HvSCWXC7C5dZ3DcZIOcgnOZOKWt4WtLyVqxk1FdX9hGcVGqyLaQI7C3cVtzTBBMGMwY4xSF5/1t2YIV/ecgeUQfX7TS7MynckboIBPSesdaQS0wncd5PLHnkHpzx9K1fjan8hzt7apZ79i3rbR0uY+ETk5JgjmMEZA+9cGMmDyScz5jwIPrSrgxxOIz8xRCjdYOIniMg9OmOK6HCVuk/wC7z+hJnC5I+EA5OSYgCYwRmP6FcGJJg8seZEkCBB+VKuuOJxH3/o/eibG6wcR6R8o6TGPah6crdJ/eRWKWyTmI9pmj1xeK7XQlWCQUKFCgDEl4zycn+Vdd4Ejnn86TLV24JU/11rU3vA7s6nj39iesdBTjRQ11mZR5FAUxwSZn51HWUgksI9P+HP8AGlNA7xuLfESSI9TjNJrBN2S15gILE+w6n5ULVrgtJ9BMx7k9T702tatJmTJnpJAHQR0pH/tObmwJI6EmJ9ORgVntZdomm0wPwx4gys8YnB+fFLLYt3rajUM0bwNiT5G9IAJM8SehkVEdmanUOzBiEVf2lkc/hwJPvR17MY3fFN44HTD/AAxIZRA+1WlXLM5Oy1dr6u3p9N4dtDsa2xEk4Jx+L3M1mhcTiKsfbdi0llT53uMcG47MQOTAPHI6darG6rhwSLM+IMD+utG01258CQCcSORnMmkGaYJ6Ue3dCyYO7oQYirELLb2Tu+IGD7j6UfV3/EM7VSBEKIn3Oc02uXQeBGBOZJMZP8aLNAheywVx5vL1IUTj2OKWco25xsEcKRtJ/wCEx9uc8Uwn3o04oAntHq7LmRZ2Oogm0/hsQ2OYKt89u6pHTJoZg3b1pgeG8OB6zwcDMCKqWnvbW3E/OPSj3rsncpEmocbCzXO7XaOmtaS9cV9llL11k3Asdspt8s7iSTHM+aKrFr9IF63cuNath7TXGZQ5MhW/D5TA5PUjjqJqj2kBZR1Jj/lOPlIBo91IMCQaFBIZsXZf6RNLcAFybTGBnKgkgQWA9+Yj3qy6DUWrm97VxbgYgsVfdkIF4ny4UYgV56DkGDk050+qZCCjNaI4Kkg/PFJwGeg1QCefMZ5J/CBj0wBgY69a44IHrzxWT9k9+dXbxcZbyddw830IIJPzNXHsfvpp7pIcm0xPlBEgY4nknk8QPWpaaAsDrVeft+2ty7buBkNtoLRuBlUcRtzMOOnRvSrIjKw3IwdfVSD+cxTe7pLbCdiNOZKgzO3Pv8K/8I9KQiBPb9iY3ngEEKxnLKRAEyCpB9DjmaKneDTN8NzdJgbUc9duIHripltIkzsSQZHlHMkzx6sT9T60idJbEfq0xx5RjM4x8vtRgQw1na1u09tWV/1gJBA4AKjzAkEfF6dDSI7w6cxDkyYwrY+OSZEwChBImpRrCGAVUwMCBgTwPaQPtSY0tocW0HyUe/t7n7mjADPTds2rjBULEn/VYfgLz5gJwOnqKb2+8lkorEXFLbSFKZIdlUMIkEeboehqVS0mCqKPcKB0iPtiunTJIOxcAAeUYA4AxwKMAR57escByTKjCt+J0SSSIiXWnuk1SXED2zKmYMEcEg4PuKMNLbHFtP8AhHqD6eoB+lHt21UQoCgdAIH5UAdoRXaFIDkV2KFCaQHnzTXyGEnHvUvbQMMCT1B9Pb1qBpzpdWyEeldDXoqMvYq92JtzuE46fOl7Vkyh4B/CJwDnP86FpVuOzmJOAv8AP6YretEg/sS4E/2cdB/5QqWx8GIvbVcgAtGMifSae2oOY5jNa/3b7cXVh/8Au9y1sCf6RQN26eMdI/OqJ3n7NtDtFbFpQoum3IB4NwkNEfDjMVlJMtS6ITTsOJx6gjmYj99KrcgxPrg5kYB/fWwXbaJctAACQ6AQOiq4+wQ/eqN+kPShL1u4Bh0I+qH+RH2pONCUrwVrtzNmMTE8ZkEHB9In71Si49R969B6u2DoGMCf7Meg/wDKph3W7yW9a11FseGbQSZKtO8tAwP9X860h+KIbsxCcxOK45HM4BzWs9l9l2rPa99LaBUOnD7TkAvcWdvoMcdJNLd5O8VjR3h4tpmFy2I2KpjY7zO4j9ocelVuEZCrAgkHr/Ok9pI5PsK2Xvf2Rau6W4SvnRHdGEKQQpOTxBiCDisq7O7DvX3RbdtiG4MQAAAWYsRECR68j1pqVgR5tnB9aXCLtAYnbJ/OrM/cDWSQvhYAJ88RM+3sab9md1NXd8W2qBTbYK63Dt5yCpjPHI/jTtCogn0yDMmPf/pTjsns23e1Fi1LRduojQRhWYbiMchZ/KrJf7B11mx4pdES0Cf1ZljDdcCc/OoJNal7UIbqGSCpZWgk7SAxgRPA4njrMq8WNK3RYuw+5emv+Iq3nN21cAZbdxHhZCkj9WC0Z82AagNH2PfcGUa264Iurt45H7X/AC1LaFrGnM2la28QWLMWIPIngA+1dbXHOfykn86wepLr/TdaNcsjf/01eJkMjn9kNB+m8AGmut0d20P1ltlg9QYz+Rqy2e0rRxeQjEK8dfnORHSl+y7GouvdtWyLiogaHIIdWJAABBk4OIjFEdWd5RUtKNWmUmw6kndPSIMfM5wfl+6n+mclipuDaRCsyj6Tzt+ef4057Q7FYXX2bVWGOxvwlEZnUxlQCjZPHFQ1q6BxuX6SP6+lbpqStHO04umWHRdpX7DgAshBHBgH048pB9oFXPsPvTuyxLFokHAHMRE7feJnrms2GpZgBuBg5AHueM+/GKe6a5nFJoRobd49xZkLLPCkB1MYkEkFcRjI9qe6bthSBvUg4BIyPn7fnVEsXqldNcqWhF5iiMoPNQml7RYe/wBf51JWterc4qaAcKuK7XQQetdikAQmuTn2ozCk2+dAB65XAa6aAOmiTXC9Jl6APPgoCu20JIABJJAAHJJMACpUd29b/wDSX/8A0m/lXQBH2L23kSP3e4rf9BeH9iTP/wDnXP8A+IZrDU7vaxp26W8YJUxbYwRyDjkVdtP29r7dnZc0NxLaWtpueFcMBV27m4jHXpUSXodl+7vduXb28XbDWQgTaTu807pjco4gcetVvQ9ipb7XLKzFQjXjuMkM8pEnJyZE+ntUXoe/V+8yrbtIxOAqq5aYxgNkY5FDQXu0Ldy7dNi473Ikuj4CzCqBEDPFZuykaBqrHi6m04cr4ALQBO43ZUg+mF/5qhv0jWt+lDjm04P0byH8yv2qhdp665eutcuABwAIA+HbiBORmnHafe+7dtvadLe11IMBp9iPNzSTse1qjSb7g9nNPH9lM/8ApUXut27a1lk3bdvw/MUZSADKgEEx0IM1RLPbuvuafw00Za01vYri3cO5Sm3cDMcdYimPYGo1+lN1bWkuPu2hla2/lIBIPl9QfyqyWiV7ta+7d7V1T3oDrae3tAwoS6oCjqfWTzNR36SdPcvXbRS21zajztUmNzYmPlUfq+29VY1T6q5pTaa6myGV1Viu3zCesKs0k/fS7uLeGmQOrY2lj/E06d2SaT2886LU/wCxu/lbNU79E+dRdBP/AIP2/WJNRnaXanaF614X9nu20b4ttt5cH8Mxge3Ximvd1tbpbniWrF4kSrqbTkMMEq2MGYPrTSwMv3ZPaFxu2tRYNxjaS2StuTtB22MgfMt9z61LdmP/AN+1wnAGn/8AaNUy/wB+9Xaffc0i22dVjeHQkKTkSM/FB+Qpl2L3k1puX7qWGvvdKFyqtC7QQqjaDAgxn0pUxDnvR4Ys3WTW3nub23WPFlADdhl2gcKJx0iqMjgOp4hgZ+RFSWt7J1LO1x9PdXe5PwNzceQox6mBTjsjsq/buK7aZyFMwyNEjPUQT7H+VVwhjzU2pg8kDJiJ9DSG4qBFRj2b1qS3iI5YnzAgkdD5viHPM097M7Sa5dtpeuG3a3BXe2iBl3ghXMqZE8j0rL430b/KnyiQ01y4q/EArZZT7YkgjjrI9fSan+7vZbFhccstvcVK27hVm4KklSCoBMypny9JNV3vPp7ug1B07XReG1XDMkQHmMBuccTHFWPsntlXs2wl5WZVKsNpWNpkNtxiMeWQIqXBrIS1U1SLD2p2Iuotsh1FwWzuLErbLD4c7/DDHCgGWMgmZxWZa7sbwNPavFyWuu2xSIi2NpVj1DEMDHAkVoFzVgWyjEkONuOWBUAkREcx/wBar3f64ht2UVgHUsTbAyqvsCkxgTED5VUJSumZMquh0RvFoJG0AnG45JEKBycHFW3s7sG0Em4dRAiSy7QBxMlCQPrSFm6bmntMLtsAW1BQLAUqANrecCamuznQsqNcZPEWFmACOrAFZdc5g/Ws9Scm8HRDTil7IPX9mXLDKWErcUOhHo3QryDSumc+h+1aSvZm8BboW7bUIqI4W58Cx4u4iZbH5+uCt2Lpx/4NtcdFA+0VruOZrJSrN2nSXqsF/sa1+EFfkSf8Uios9lq0m1cDQSOCMjpPBpkndE7k+TJGYJ/nUiuvAxcVkPuMU203ZAC+ZmDT+E8flS7Wrq43C4vowqQHAug5Bke1d96jHTzfCbZ68x9KkbTSo4+lABjQoGuE0gCNTZ2zSruJimznNMDDezzF22fS4n+IVvei1U1gOkP6xP76/wCIVsnZepxzWk0KwljvnpNLcv27rOHF66YVCRBIjNXrS3A6K68MoYT6MJz9KzvR93dJqXvXb1os5vXASHdcAgDCsBV80zhLYVFJ2LCqCJO0YUFjHSJNLAzNdToLem7dtJZXYjgOUHALW3J2joJEx0q+Xrpn2rL+ze1Luo7atXLyeHcDsvhxGwKlyEM8n36zWm6lhOKJITZletf9Zc6ee5j/AHj/AF9ae92OzrV3URcG5VQvt6EhlAB9RnjrVd1PaGy9dVgSPFu/+43FWXuVqVbVsFMjwXM+n6y3iKW1o0csGjHUgKWOAoJPyAngfKoPsfvVpHvuq3ZN1rQTyv5jtiMjH1qQ1oBtXB623/wGsr7sWguq08dLiSeeuAP66U0kRHJtPanZlvU2mtXV3K33B6Mp6EetZh3E7AtNrL+8bv7OxFvdESHdQ7DqRtBHSTPpGtWmqhfo7zrdeP8AXJ+965FCAt9y4tq2124diJJYxOAY3GASaiu7nb+lu3Llu3dDO926yLtbKwPNlY6dake/Ajs/U/7I/vFZZ+jMf/yFo/6l3/AaEgo1Xt3sS3qrTW7o9SrDlCB8Sn8veqd+ic7rV8gfit/mrVod5xB+R/dWf/ol2i1fA9bX+E0dAWLvFcW3bD3GCot2yWJ9BetyaQ7N7W02ocpZuK7KJIAYQJicgUl+kRZ0N752vyupVM/Rd/8A3H/2L49f1lr+vrRVoC6d5+yrdyxcLjzW0d1Ycgqsx8jEH+dZn2Eq+Pctsu8XbThBz5123UMdfgI/3j61sPbqTp73+xu/4DWK9k3XsXrN5SCbdxSMTEH+U4ojwND3vnrUu6i29tgSLKpcGZRrT3LcGfVQrf71R+g7QuWjKuR6gnB+Y4Iprqbu65cf9t2YzzLMSZ+9JMxNX0BO9od4rt0BEVU3EAlZmTiAScT7UzCN+sUzOCD/AHfKf4UwtnaynoCp+xE1YHe1duILLzcbO3IzPAJxmcj51LwUuLI7TTbdbiNBkgH2cSJ9idwq192e8txnWyVO4zGzgxnayGenUfaq7qtNtLKfwkg+2f4EEUjbvtbdbls7HtspBHqIIb5fwI9aUoRkslRm48G/20S2ggFRGFMyJzGc9aZ3boc7YEHEfOovsjtNNVZS6py2GX9lh8S/y9QQetOCc8fL99RdYIabHGrvC2pZtzQOFBZvsOTTdnBUMMBgCJBHPzzXXMmTGefmY6/1zQIn7UtyJ2sCNIJnj09q5afcJ+uZBo4JAAWAJyI5/lmK5sHpFFhtE9QoeAfWZHQ0RNMAOTPrS5FCKLChIhh1miM/0pU0i6A0AEb2pq/NOXEU1c5pgYbY+Jf7y/vFaF2d2hGJ+eff8qztDBB9CD9jUza7bC/hP5fzrZqyWSV7S6u5duvZvFENxseKUz1MA1pHZfae22iufMqqGMzJCic9fWsp03bwUEbWyxPTr9aeDvWAPKrzGJiPac0mgyTXaGrJ7as3HCg7RO3g+S4AZj0irdc1WZxzWQWO1X/tC37hLkEzHptIhQcQJqfHfC3+zc/5f/lQ0KSYa93Pe673ReRd7uwUqxI3OTBinPdns06TXFGcPNgtKgjm4qxn+7TW13vthYKP1/Z6kn9r3qH7U7cNy+l63uQogXMdGY5g5HmiKMjyapqdSGR1BEsrAScZEZj51T+7nd+7bvqzvbPhNbJhmMg5xKcwIzFRyd7RA3I09YiPpJo9jvagdm2XPNt/Z/DPOfeppgrRrlvWCqf+jto1eubqzN+V65FVztPvWzJssnazDLzkAj8Pv79Kb9jau5ZZXtmGHPoROQfUUcIuMXRr3eSy1/S3rKRuuJA3EgTIOTBqhdz+7t7T6jxH8OLZuIdrE524iVGMipJO+i4m0/8AxD0qL0nfS2Td/VvLXGaPLwQozmJxS6CnwXN9YeOR/lVN/Rle227395P8JqK7Z7ytdUrbDW5+Izkj0EcfOmXd7ttdNvlGbcRwR0Bpi2tI0nvbZN7SPaQjc72lEnq11AJ9qgu53dm/o77XLpt7fDdfKxJyyHqoEQppjqO+ttlQG3c8ty25yudlxWjn0BH1p3c/SLYIjwbvt8H/AMqWQzRaO19Sps3h/wDauc/7N/Ssc01kq7G55VXODg4kQeYjP2qd7z96n1CC1aDW0Px7o3P6LgmF9R1+WDXL+pZxAAmIwDxj78R9aaTocccjd2hmJjJPHHPSgTxU/wB3e7lzU7yEJtqrQwAhn2Eqm4kAZgn0FNkc233oNwWF8QgFAJUSGXH4oI9TVWOg3ZvYF27DMNiHqwkkTHlXk/WKuPYPYdm0BcWzDebzXGYvtIwQOFY+gjHX1PptO9023tXHNu2bniKgLF2OQkn8I4xPyxT8yVcBdjAwdwzgnmDPExnrWMpsdFb726Q4vLB3QHAjyseA0EjzARPUj3qrJ7CeYH7Q6p8x+4/KtAvMwLWriNet3P2E+BZIg5kxK5xEmOIqDXus/ishJFoeY3OpE+UqBw/IPTk9c3GarINHO5mpvW7jvbttds7dzqI5AO0rOBcBxHpPSDWi27yMCUYPBIMMDBB4wSBj19qhuzR4dsi0g28qhG08SdxbMs0mWHWltDpkssRbRURmLOvmgD1U8dB5YgScwBUSkmNKiSUMZ3gYbEZEAypz1iPqMUshqP7NuMloF2W6cmbYJ3ScEZyc88VIbsxUdgK0lv8A+uKVAHpTfUCDTJDKT159j74rs03Unif6/wClKk5piOtSLNRDekkRwYnp1rlz50wC3GpsTSjUhTEYdQoUK6BAoUKFAC+itB7iIZhmUGOcmMVM/wDYagwdxMOYUqJhwqwSIypmoTS3tjo8TtYGOJgzFSDdtMQJVWAUrBmCC27MEcQBWc1K8Hb48tBQfyLPQbT6O0yqf1gJuBPiGJMz8Pp+dF1ugRRcIDAoUHmYGdxbOB6KPzpqmvZYACgB94EHBGAOePajWteRuG1WDkEhgYkTEQR60qkmG/RaprPv9D2z2YhJBdhFtLh44IlgMcjEVHaW0HuBcgEn58E06s9rspnYp8qKecqoI2+09flTOxe2OHA4JxPzxNNKWbFN6L217yLdngNcVWuraBObjTCjqSFBJ+Q5rQbPdkIXtnVKGW14ubTjybA8uD/o2yBsOZI9azzszXNYupeTbvQ7l3KGEgYJU4Mc/OKlrvem+73Wbw18baLuy2qb9jF87RyWMk8nas8U5Rs5rLZou7rPphqN4iWhQjtEMFO9lBCEzInBHUUbUdwvDvOpvEQlxyfAuH/RuikIP/EkuD5fT3qI7P7w3RbKWmtjDLuNtDcVXMsm8idpI4+1EHejU3Llwt4Vp7iujvatLbdg7BmJZck7lBmep9alUVkea/uqltb5uapA+nZVdBads3AxtgNj4gM/szB4qpN71ZNO7eHcthvJdZGeRJJtltpk5/EfnNItoLYUlyIAmT6UKSQ3EhDFJqGnAp3rQAwCmFjjqZyCfypTS6hVtglYyfMc07pWTtt0NhZY9QB6nP5Cp/u7orQ1Fu3cHiFwChGCJQuMGVPEEGRPyqP/ALVPNtWH93nHqINWHuxqbTbEdQty0zPaY+4O+0SZwQSYPBEjqGmUnRSgkPO9fb7eEmltgWiwY3WTAYFmEL6TEt1wBxVN1Vw3HYJhUVUUcDagABI43YGaku23Y3mNyN0AE+u3AYek81FaVgoc856n7TSjiI6ySfY2pu2BuDKEBl1AIYDgkEdJ29PxA9TV0XXPetqUuHbjZ8JIBgkSwIPAEcjOaol+5tt7uVPxGfiJEGPYcfQelPOy+0PCdQgJtMs7iPhz8vU59orKScsrkbSRZNZd1VvIW2w6XVQAyMEON4AMACYj3p32J2n4pCsF3eadr7sgiMbRIyfMMeXPNQml7RZmcDehUwN3Uc7gZzNE1KB3DSUePiXIaOCy9T7iD88RN9MdJly0/Z3hgiXec72IJOABEcj+R9RRG0CrudfKxMlokkSpIznIWIHHQVXtB25q7A2svi2xPw+bB9j5h84MVNaHvTp7ggyriPL/AJE7h9ZoXsloeaLSbAxExccvtPl2bgPKB6+vuaVV2lpkAEAExBwI2wc5PXrQ091XPkM/X/M/OJ+1LsYOeKohnS5FN2Yn/OlXXdBnMR9yOftSUGgQCJoyvmur710p1piEmQCY65PvRSlLOJpNmoAbsKSK0s4M8/SiVQjCKFChXSIFChQoAFChQoAFChQoAFChQoAE0cmhQpDFLF4qZBg09TVsW3GPl/XzrlCpGh/b1NzlRA9/8qd2+ZaHY8BhgR6DpQoVm+TdcHNZbRlfcv6wru+cnaCx4xPHAqTsdn2rgUElRHxRPTkihQofBPYrf7Fa2N6t4iCPMvmAn9rEr9RUXdVg63FIBBBEDEggiuUKUSmM9UxIJI6YE8AcAewpHSWC0dPrzNdoVfRK5ENRqHdtp8iqcIOARg/1xUxpb4uTbj8MgD8OYIxxB/IihQqZcAgJebTwkllY/iJ8oHxGf2evtUw7EZU55HWhQrLU6KiHklZna3SOh9Y4+lHVtwCuBcjq6g/XjFChURHIlOy9WttgwWCOinH5yPyq06TU27o8oyTwSJGJnBmOnFdoVZlILfQW5MADJMY5Oaaq5x5WH7/rQoUCQe2wI5pUtihQpiGWnuGCpkkH1/j/AFzRheBxGetChQACaSMetChTQj//2Q==",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": " 27 September 2019"
+	},
+	{
+		"id": 58,
+		"name": "Operation MBBS",
+		"rating": 8.9,
+		"description": "First-year MBBS students face bullies, personal issues and several other ups and downs in their quest to earn a medical degree.",
+		"category": ["Drama"],
+		"platform": "Youtube",
+		"casting": {
+			"actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"],
+			"director": ["Arif Ali Avinash Das"]
+		},
+		"poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "20 March 2020"
+	},
 
+	{
+		"id": 59,
+		"name": "Aashram",
+		"rating": 7.7,
+		"description": "A duplicitous, aashram based, Indian Godman's good deeds serve activities criminal and unholy, such as rapes, murders, drugs, vote bank politics and forced male emasculation. The law and a few crusaders investigate to bring him to account.",
+		"category": ["Crime"],
+		"platform": "Mx Player",
+		"casting": {
+			"actors": ["Bobby Deol", "Chandan Roy Sanyal", "Aditi Sudhir Pohankar"],
+			"director": ["Prakash Jha"]
+		},
+		"poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Aashram_%28poster%29.jpg",
+		"episodeCount": 20,
+		"seasons": 2,
+		"releaseDate": "2020"
+	},
+	{
+		"id": 60,
+		"name": "Bandish Bandits ",
+		"rating": 8.7,
+		"description": "Classical music student Radhe and pop sensation Tamanna, coming from very different worlds of music, set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul",
+		"category": ["romance", "drama"],
+		"platform": "Amazon Prime",
+		"casting": {
+			"actors": ["Tamanna", "Radhe"],
+			"director": ["Amritpal Singh Bindra", " Anand Tiwari"]
+		},
+		"poster": "https://en.wikipedia.org/wiki/File:Bandish_Bandits_poster.jpg",
+		"episodeCount": 10,
+		"seasons": 1,
+		"releaseDate": "4 August 2020"
+	},
 
+	{
+		"id": 61,
+		"name": "Patal lok",
+		"rating": 8.6,
+		"description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm",
+		"category": ["Crime", "Drama", "Action"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Jaideep Ahlawat",
+				"Gul Panag",
+				"Neeraj Kabi",
+				"Swastika Mukherjee",
+				"Ishwak Singh",
+				"Abhishek Banerjee"
+			],
+			"director": ["Avinash Arun"]
+		},
+		"poster": "data:image/jpeg;base64,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",
+		"episodeCount": 9,
+		"seasons": 2,
+		"releaseDate": "15 May 2020"
+	},
+	{
+		"id": 62,
+		"name": "Code M",
+		"rating": 6.3,
+		"description": "Miltary lawyer, Major Monica Mehra, is brought in to solve, what seems like an open and shut case, of the death of an army officer, killed by militants. The truth is far from what it appears to be.",
+		"category": ["Mystery", "Thriller"],
+		"platform": "",
+		"casting": {
+			"actors": [
+				"Jennifer Winget",
+				"Aalekh Kapoor",
+				"Keshav Sadhna",
+				"Rajat Kapoor",
+				"Tanuj Virwani"
+			],
+			"director": ["Baljit Singh Chaddha"]
+		},
+		"poster": "https://www.imdb.com/title/tt11536424/mediaviewer/rm2437251329/",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "15 January 2020"
+	},
+	{
+		"id": 63,
+		"name": "Bandish Bandits",
+		"rating": 8.7,
+		"description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+		"category": ["Romance", "Drama", "Music"],
+		"platform": "amazon-prime",
+		"casting": {
+			"actors": [
+				"Ritwik Bhowmik",
+				"Shreya Chaudhary",
+				"Naseeruddin Shah",
+				"Sheeba Chaddha",
+				"Amit Mistry",
+				"Kunaal Roy Kapur"
+			],
+			"director": ["Anand Tiwari"]
+		},
+		"poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+		"episodeCount": 9,
+		"seasons": 1,
+		"releaseDate": "August 4, 2020"
+	},
 
-{
-    "id": 59,
-    "name": "Aashram",
-    "rating": 7.7,
-    "description": "A duplicitous, aashram based, Indian Godman's good deeds serve activities criminal and unholy, such as rapes, murders, drugs, vote bank politics and forced male emasculation. The law and a few crusaders investigate to bring him to account.",
-    "category": ["Crime"],
-    "platform": "Mx Player",
-    "casting": {
-      "actors": ["Bobby Deol", "Chandan Roy Sanyal", "Aditi Sudhir Pohankar"],
-      "director": ["Prakash Jha"]
-    },
-    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Aashram_%28poster%29.jpg",
-    "episodeCount": 20,
-    "seasons": 2,
-    "releaseDate": "2020"
-},
-{
-    "id": 60,
-    "name": "Bandish Bandits ",
-    "rating": 8.7,
-    "description": "Classical music student Radhe and pop sensation Tamanna, coming from very different worlds of music, set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul",
-    "category": ["romance", "drama"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": ["Tamanna", "Radhe"]
-      "director": ["Amritpal Singh Bindra"," Anand Tiwari"]
-    },
-    "poster": "https://en.wikipedia.org/wiki/File:Bandish_Bandits_poster.jpg",
-    "episodeCount": 10,
-    "seasons": 1,
-    "releaseDate": "4 August 2020"
-  
+	{
+		"id": 64,
+		"name": "Breaking Bad",
+		"rating": 9.4,
+		"description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+		"category": ["Crime", "Drama", "Thriller"],
+		"platform": "",
+		"casting": {
+			"actors": [
+				"Bryan Cranston",
+				"Aaron Paul",
+				"Dean Norris",
+				"Anna Gunn",
+				"Betsy Brandt"
+			],
+			"director": ["Vince Gilligan"]
+		},
+		"poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fbreaking-bad-poster-series-posters-room-office-paper-print%2Fp%2Fitm44706fffd0682&psig=AOvVaw3rt6mKhIrnRi8xDv0m905o&ust=1633118552957000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGuOy-p_MCFQAAAAAdAAAAABAD",
+		"episodeCount": 62,
+		"seasons": 5,
+		"releaseDate": "20 January 2008"
+	},
+	{
+		"id": 65,
+		"name": "Ghoul",
+		"rating": 6.3,
+		"description": "In a totalitarian near-future India, a mysterious prisoner is sent to a remote military interrogation center where he turns the tables on his captors by exposing their most shameful secrets and unleashing a demon from Arabic folklore",
+		"category": ["Horror", "Thriller"],
+		"name": "A Suitable boy",
+		"rating": 5.8,
+		"description": "A vast, panoramic tale charting the fortunes of four large families and exploring India and its rich and varied culture at a crucial point in its history.",
+		"category": ["Drama", "Romance"],
+		"platform": "",
+		"casting": {
+			"actors": [
+				"Tanya Maniktala",
+				"Ishan Khattar",
+				"Mahira Kakkar",
+				"Danesh Razvi"
+			],
+			"director": ["Mira Nair"]
+		},
+		"poster": "https://images.app.goo.gl/7nFyDYyFaJWCpRaV9",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "26 July 2020"
+	},
+	{
+		"id": 66,
+		"name": "PANCHAYAT",
+		"rating": 8.8,
+		"description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+		"category": ["Comedy", "Drama"],
+		"platform": "Amazon Prime",
+		"casting": {
+			"actors": ["Jitendra Kumar", "Raghuvir Yadav", "Chandan Roy"],
+			"director": ["Shri Kamlesh Kumar Tripathi"]
+		},
+		"poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt12004706%2F&psig=AOvVaw2zbNNoGLwC-HO7pvlRlUHe&ust=1633153982688000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiQ0vDCqPMCFQAAAAAdAAAAABAD",
+		"episodeCount": 8,
+		"seasons": 2,
+		"releaseDate": "3 April 2020"
+	},
 
-  },
+	{
+		"id": 67,
+		"name": "Jeet KI jid",
+		"rating": 8.4,
+		"description": "Inspired from a true story, Zidd is a tale of conviction, persuasion and commitment. It's the story of a man whose ability to turn impossible into possible, makes him unique and inspiring. The series follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below",
+		"category": ["Action", "Drama"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": ["Amit Sad", "Amrita Puri", "Sushant Singh"],
+			"director": ["vivek Angihotri", "Rohit Malhotra"]
+		},
+		"poster": "https://www.imdb.com/title/tt12913686/mediaviewer/rm2601441025/",
+		"episodeCount": 7,
+		"seasons": 1,
+		"releaseDate": "328 November 2014"
+	},
+	{
+		"id": 68,
+		"name": "Four more shots please!",
+		"rating": 6.4,
+		"description": "Four unapologetically flawed women live, love, blunder and discover what really makes them tick through friendship and tequila in millennial Mumbai.",
+		"category": ["Comedy", "Drama"],
+		"platform": "Amazon Prime",
+		"casting": {
+			"actors": ["Sayani Gupta", "Maanvi Gagroo", "V J Bani", "Lisa Ray"],
+			"director": ["Anu Menon, Nupur Asthana"]
+		},
+		"poster": "https://m.media-amazon.com/images/M/MV5BZjBhNTE2NTctZmVlOC00YmY5LTgxMzMtNmRjOTJlNzZiYmU0XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg",
+		"episodeCount": 20,
+		"seasons": 2,
+		"releaseDate": "25 January 2019 – 17 April 2020"
+	},
+	{
+		"id": 69,
+		"name": "Breath",
+		"rating": 8.3,
+		"description": "Breathe is an Indian crime drama thriller streaming television series.",
+		"category": ["Drama", "Thriller", "Crime"],
+		"platform": "Amazon Prime",
+		"casting": {
+			"actors": ["Amit Sadh", "Sapna Pabbi", "R Madhavan"],
+			"director": ["Mayank Sharma"]
+		},
+		"poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBreathe_(TV_series)&psig=AOvVaw0aP1P_xt3EfWBN1OxZy6fy&ust=1633161079221000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC9-aHdqPMCFQAAAAAdAAAAABAD",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "26 Janaury 2018"
+	},
 
- {
-    "id": 61,
-    "name": "Patal lok",
-    "rating": 8.6,
-    "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm",
-    "category": ["Crime", "Drama", "Action"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        	
-"Jaideep Ahlawat"
-"Gul Panag"
-"Neeraj Kabi"
-"Swastika Mukherjee"
-"Ishwak Singh"
-"Abhishek Banerjee"
-      ],
-      "director": ["	Avinash Arun"]
-    },
-    "poster": "data:image/jpeg;base64,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",
-    "episodeCount": 9,
-    "seasons": 2,
-    "releaseDate": "	15 May 2020"
-  },
-{
-    "id": 62,
-    "name": "Code M",
-    "rating": 6.3,
-    "description": "Miltary lawyer, Major Monica Mehra, is brought in to solve, what seems like an open and shut case, of the death of an army officer, killed by militants. The truth is far from what it appears to be.",
-    "category": ["Mystery", "Thriller"],
-    "platform": "",
-    "casting": {
-      "actors": [
-        "Jennifer Winget",
-        "Aalekh Kapoor",
-        "Keshav Sadhna",
-        "Rajat Kapoor",
-        "Tanuj Virwani",
-      ],
-      "director": ["Baljit Singh Chaddha	"]
-    },
-    "poster": "https://www.imdb.com/title/tt11536424/mediaviewer/rm2437251329/",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "15 January 2020"
-},
-{
-    "id": 63,
-    "name": "Bandish Bandits",
-    "rating": 8.7,
-    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
-    "category": ["Romance", "Drama", "Music"],
-    "platform": "amazon-prime",
-    "casting": {
-      "actors": [
-        	
-"Ritwik Bhowmik",
-"Shreya Chaudhary",
-"Naseeruddin Shah",
-"Sheeba Chaddha",
-"Amit Mistry",
-"Kunaal Roy Kapur",
-      ],
-      "director": ["Anand Tiwari"]
-    },
-    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
-    "episodeCount": 9,
-    "seasons": 1,
-    "releaseDate": "August 4, 2020"
-  },
+	{
+		"id": 70,
+		"name": "The legent of Hanuman",
+		"rating": 9.1,
+		"description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
+		"category": ["Drama", "Epic", "worship"],
+		"platform": "Hotstar",
+		"casting": {
+			"actors": ["Da Man", "Shakti Singh", "Sharad kelkar"],
+			"director": ["Charuvi P. Agrawal, Sharad Devarajan, Jeevan J. Kang"]
+		},
 
-{
-    "id": 64,
-    "name": "Breaking Bad",
-    "rating": 9.4,
-    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
-    "category": ["Crime", "Drama", "Thriller"],
-    "platform": "",
-    "casting": {
-      "actors": [
-        "Bryan Cranston",
-        "Aaron Paul",
-        "Dean Norris",
-        "Anna Gunn",
-        "Betsy Brandt",
-      ],
-      "director": ["Vince Gilligan"]
-    },
-    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fbreaking-bad-poster-series-posters-room-office-paper-print%2Fp%2Fitm44706fffd0682&psig=AOvVaw3rt6mKhIrnRi8xDv0m905o&ust=1633118552957000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGuOy-p_MCFQAAAAAdAAAAABAD",
-    "episodeCount": 62,
-    "seasons": 5,
-    "releaseDate": "20 January 2008"
-},
-{
-    "id": 65,
-    "name": "Ghoul",
-    "rating": 6.3,
-    "description": "In a totalitarian near-future India, a mysterious prisoner is sent to a remote military interrogation center where he turns the tables on his captors by exposing their most shameful secrets and unleashing a demon from Arabic folklore",
-    "category": ["Horror", "Thriller"],
-    "name": "A Suitable boy",
-    "rating": 5.8,
-    "description": "A vast, panoramic tale charting the fortunes of four large families and exploring India and its rich and varied culture at a crucial point in its history.",
-    "category": [ "Drama", "Romance"],
-    "platform": "",
-    "casting": {
-      "actors": [
-        "Tanya Maniktala",
-        "Ishan Khattar",
-        "Mahira Kakkar",
-        "Danesh Razvi",
-      ],
-      "director": ["Mira Nair"]
-    },
-    "poster": "https://images.app.goo.gl/7nFyDYyFaJWCpRaV9",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "26 July 2020"
-},{
-  "id":66,
-    "name": "PANCHAYAT",
-    "rating": 8.8,
-    "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
-    "category": ["Comedy", "Drama"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": [
-        "Jitendra Kumar",
-        "Raghuvir Yadav",
-        "Chandan Roy"
-      ],
-      "director": ["Shri Kamlesh Kumar Tripathi"]
-    },
-    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt12004706%2F&psig=AOvVaw2zbNNoGLwC-HO7pvlRlUHe&ust=1633153982688000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiQ0vDCqPMCFQAAAAAdAAAAABAD",
-    "episodeCount": 8,
-    "seasons": 2,
-    "releaseDate": "3 April 2020"
-},
+		"poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "16 March 2020"
+	},
 
-{
+	{
+		"id": 71,
+		"name": "ImMATURE",
+		"rating": 8.8,
+		"description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever.",
+		"category": ["Comedy", "Romance", "Drama"],
+		"platform": "MX Player",
+		"casting": {
+			"actors": [
+				"Rashmi Agdekar",
+				"Omkar Kulkarni",
+				"Visshesh Tiwari",
+				"Dilip Merala",
+				"Gopal Datt"
+			],
+			"director": ["Prem Mistry"]
+		},
+		"poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
+		"episodeCount": 5,
+		"seasons": 1,
+		"releaseDate": "18 February 2019"
+	},
 
-"id":67,
-    "name": "Jeet KI jid",
-    "rating": 8.4,
-    "description": "Inspired from a true story, Zidd is a tale of conviction, persuasion and commitment. It's the story of a man whose ability to turn impossible into possible, makes him unique and inspiring. The series follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below",
-    "category": ["Action", "Drama"],
-    "platform": "Zee 5",
-    "casting": {
-      "actors": [
-        "Amit Sad",
-        "Amrita Puri",
-        "Sushant Singh"
-      ],
-      "director": ["vivek Angihotri", "Rohit Malhotra"]
-    },
-    "poster": "https://www.imdb.com/title/tt12913686/mediaviewer/rm2601441025/",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "328 November 2014"
-},
-{
-
-  "id":68,
-    "name": "Four more shots please!",
-    "rating": 6.4,
-    "description": "Four unapologetically flawed women live, love, blunder and discover what really makes them tick through friendship and tequila in millennial Mumbai.",
-    "category": ["Comedy", "Drama"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": [
-        "Sayani Gupta",
-        "Maanvi Gagroo",
-        "V J Bani"
-        "Lisa Ray"
-      ],
-      "director": ["Anu Menon, Nupur Asthana"]
-    },
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjBhNTE2NTctZmVlOC00YmY5LTgxMzMtNmRjOTJlNzZiYmU0XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg",
-    "episodeCount": 20,
-    "seasons": 2,
-    "releaseDate": "25 January 2019 – 17 April 2020"
-},
-{
-    "id": 69,
-    "name": "Breath",
-    "rating": 8.3,
-    "description": "Breathe is an Indian crime drama thriller streaming television series.",
-    "category": [ "Drama", "Thriller","Crime"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": [
-        "Amit Sadh",
-        "Sapna Pabbi",
-        "R Madhavan"
-      ],
-      "director": ["Mayank Sharma"]
-    },
-    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBreathe_(TV_series)&psig=AOvVaw0aP1P_xt3EfWBN1OxZy6fy&ust=1633161079221000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC9-aHdqPMCFQAAAAAdAAAAABAD",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "26 Janaury 2018"
-},
-
-{
-    "id": 70,
-    "name": "The legent of Hanuman",
-    "rating": 9.1,
-    "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
-    "category": [ "Drama", "Epic","worship"],
-    "platform": "Hotstar",
-    "casting": {
-      "actors": [
-        "Da Man",
-        "Shakti Singh",
-        "Sharad kelkar"
-      ],
-      "director": ["Charuvi P. Agrawal, Sharad Devarajan, Jeevan J. Kang"]
-    },
-
-    "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
-    "episodeCount": 8,
-    "seasons": 1,
-    "releaseDate": "16 March 2020"
-  },
-
-  {
-    "id": 71,
-    "name": "ImMATURE",
-    "rating": 8.8,
-    "description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever.",
-    "category": ["Comedy","Romance","Drama"],
-    "platform": "MX Player",
-    "casting": {
-      "actors": [
-        "Rashmi Agdekar",
-        "Omkar Kulkarni",
-        "Visshesh Tiwari",
-        "Dilip Merala",
-        "Gopal Datt"
-      ],
-      "director": ["Prem Mistry"]
-    },
-    "poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
-    "episodeCount": 5,
-    "seasons": 1,
-    "releaseDate": "18 February 2019"
-  },
-
-{
-"id":72,
-    "name": "Aspirants",
-    "rating": 9.7,
-    "description": "Story and Struggle of every UPSE aspirant",
-    "category": ["Romance", "Drama"],
-    "platform": "YOU-TUBE",
-    "casting": {
-      "actors": [
-        "Naveen Kasturia",
-        "Shivankit Singh",
-        "Abhilash Thapliyal ",
-        "Namita Dubey"
-      ],
-      "director": ["Apoorv Singh Karki"]
-    },
-    "poster": "https://www.imdb.com/title/tt14392248/?ref_=vp_vi_tt_p",
-    "episodeCount": 5,
-    "seasons": 1,
-    "releaseDate": "7 April 2021"
-},
-{
-    "id": 73,
-    "name": "Ramayan",
-    "rating": 8.3,
-    "description": "Ramayan is a web series about life of lord Ram on Earth",
-    "category": [ "Drama", "Mythology"],
-    "platform": "Youtube",
-    "casting": {
-      "actors": [
-        "Arun Govil",
-      ],
-      "director": ["Ramanand Sagar"]
-    },
-    "poster": "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242"
-  "episodeCount": 78,
-    "seasons": 1,
-    "releaseDate": "25 Janaury 1987"
-},
-{
-    "id": 74,
-    "name": "Ghoul",
-    "rating": 7.1,
-    "description": "Ghoul is an Indian horror streaming television miniseries based on the Arab folklore monster ghoul, and the second Netflix original from India.",
-    "category": [ "horror", "Thriller"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Radhika Apte",
-         "Manav Kaul",
-         "Ratnabali Bhattacharjee",
-         "Mahesh Balraj",
-      ],
-      "director": ["Patrick Graham"]
-    },
-    "poster": "https://i0.wp.com/vargiskhan.com/log/wp-content/uploads/2018/08/ghoul.jpg?resize=800%2C450",
-    "episodeCount": 3,
-    "seasons": 1,
-    "releaseDate": "24 August 2018"
-},
-{
-    "id": 71,
-    "name": "Bard Of Blood",
-    "rating": 6.9,
-    "description": "Political espionage thriller based on "Bard of Blood," by Bilal Siddiqi.
-    "category": [ "Thriller"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Emran Hashmi",
-        "Sobhita Dhulipala",
-        "Jaydeep Ahlawat"
-      ],
-      "director": ["Ribhu Dasgupta"]
-    },
-    "poster": "https://www.google.com/search?q=indian+web+series+ghoul+poster&biw=1280&bih=657&sxsrf=AOaemvJ0N_PmxEQnRS48lgNTbN4xesuYaQ:1633076394337&tbm=isch&source=iu&ictx=1&fir=txAs8e8JDNl5MM%252CIMQoMHPy1SSvIM%252C_%253BdbzgZscEm6rIdM%252C2jwx2Yns0iexLM%252C_%253Bm39lGlxCsAsTLM%252CIMQoMHPy1SSvIM%252C_%253BqKZBCavNGXxaHM%252C2jwx2Yns0iexLM%252C_%253BpT138NPuyVzJfM%252C0uddl_W2_PeHMM%252C_%253BeGjbTVAA_mEMRM%252Cnm2SXzTf0aroRM%252C_%253BS5ZJGpF3qY47dM%252C2jwx2Yns0iexLM%252C_%253BdP_oceVHwAi4wM%252Ctv8lPcSMWVUPGM%252C_%253Bp-vJtvaeyCFR4M%252Ci125JIklsv8IoM%252C_%253BmmFIsSPJB1j3QM%252C2jwx2Yns0iexLM%252C_&vet=1&usg=AI4_-kTuz-oXlb9xbSXHZctZk37-DvxhVQ&sa=X&ved=2ahUKEwjyg4DT46jzAhUNSX0KHZxOB-IQ9QF6BAgHEAE#imgrc=txAs8e8JDNl5MM",
-    "episodeCount": 14,
-    "seasons": 2,
-    "releaseDate": "27 Septmember 2019"
-},{
-    "id": 75,
-    "name": "Rajma Chawal",
-    "rating": 5.8,
-    "description": "Good family movie dealing with life in the big, decaying section of the city, Old Delhi.",
-    "category": [ "Comedy","Family","Drama"],
-    "platform": "Netflix",
-    "casting": {
-      "actors": [
-        "Amyra Dastur",
-        "Rishi Kapoor",
-        "Manu Rishi Chadda"
-      ],
-      "director": ["Leena Yaddav"]
-    },
-    "poster": "https://www.google.com/search?q=rajma+chawal+poster&tbm=isch&ved=2ahUKEwi5wOb9_qjzAhXBnEsFHcRKD7sQ2-cCegQIABAA&oq=rajma+chawal+poster&gs_lcp=CgNpbWcQAzIFCAAQgAQ6CAgAEIAEELEDOggIABCxAxCDAToECAAQQzoHCAAQsQMQQzoLCAAQgAQQsQMQgwFQ6ShYmWRgwGVoAHAAeASAAZsDiAG7KJIBCjAuNy4xNS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=U-FWYfnKM8G5rtoPxJW92As&bih=657&biw=1280",
-    "episodeCount": 1,
-    "seasons": 1,
-    "releaseDate": " 2018"
-}
+	{
+		"id": 72,
+		"name": "Aspirants",
+		"rating": 9.7,
+		"description": "Story and Struggle of every UPSE aspirant",
+		"category": ["Romance", "Drama"],
+		"platform": "YOU-TUBE",
+		"casting": {
+			"actors": [
+				"Naveen Kasturia",
+				"Shivankit Singh",
+				"Abhilash Thapliyal ",
+				"Namita Dubey"
+			],
+			"director": ["Apoorv Singh Karki"]
+		},
+		"poster": "https://www.imdb.com/title/tt14392248/?ref_=vp_vi_tt_p",
+		"episodeCount": 5,
+		"seasons": 1,
+		"releaseDate": "7 April 2021"
+	},
+	{
+		"id": 73,
+		"name": "Ramayan",
+		"rating": 8.3,
+		"description": "Ramayan is a web series about life of lord Ram on Earth",
+		"category": ["Drama", "Mythology"],
+		"platform": "Youtube",
+		"casting": {
+			"actors": ["Arun Govil"],
+			"director": ["Ramanand Sagar"]
+		},
+		"poster": "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242",
+		"episodeCount": 78,
+		"seasons": 1,
+		"releaseDate": "25 Janaury 1987"
+	},
+	{
+		"id": 74,
+		"name": "Ghoul",
+		"rating": 7.1,
+		"description": "Ghoul is an Indian horror streaming television miniseries based on the Arab folklore monster ghoul, and the second Netflix original from India.",
+		"category": ["horror", "Thriller"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": [
+				"Radhika Apte",
+				"Manav Kaul",
+				"Ratnabali Bhattacharjee",
+				"Mahesh Balraj"
+			],
+			"director": ["Patrick Graham"]
+		},
+		"poster": "https://i0.wp.com/vargiskhan.com/log/wp-content/uploads/2018/08/ghoul.jpg?resize=800%2C450",
+		"episodeCount": 3,
+		"seasons": 1,
+		"releaseDate": "24 August 2018"
+	},
+	{
+		"id": 71,
+		"name": "Bard Of Blood",
+		"rating": 6.9,
+		"description": "Political espionage thriller based on 'Bard of Blood,' by Bilal Siddiqi.",
+		"category": ["Thriller"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Emran Hashmi", "Sobhita Dhulipala", "Jaydeep Ahlawat"],
+			"director": ["Ribhu Dasgupta"]
+		},
+		"poster": "https://www.google.com/search?q=indian+web+series+ghoul+poster&biw=1280&bih=657&sxsrf=AOaemvJ0N_PmxEQnRS48lgNTbN4xesuYaQ:1633076394337&tbm=isch&source=iu&ictx=1&fir=txAs8e8JDNl5MM%252CIMQoMHPy1SSvIM%252C_%253BdbzgZscEm6rIdM%252C2jwx2Yns0iexLM%252C_%253Bm39lGlxCsAsTLM%252CIMQoMHPy1SSvIM%252C_%253BqKZBCavNGXxaHM%252C2jwx2Yns0iexLM%252C_%253BpT138NPuyVzJfM%252C0uddl_W2_PeHMM%252C_%253BeGjbTVAA_mEMRM%252Cnm2SXzTf0aroRM%252C_%253BS5ZJGpF3qY47dM%252C2jwx2Yns0iexLM%252C_%253BdP_oceVHwAi4wM%252Ctv8lPcSMWVUPGM%252C_%253Bp-vJtvaeyCFR4M%252Ci125JIklsv8IoM%252C_%253BmmFIsSPJB1j3QM%252C2jwx2Yns0iexLM%252C_&vet=1&usg=AI4_-kTuz-oXlb9xbSXHZctZk37-DvxhVQ&sa=X&ved=2ahUKEwjyg4DT46jzAhUNSX0KHZxOB-IQ9QF6BAgHEAE#imgrc=txAs8e8JDNl5MM",
+		"episodeCount": 14,
+		"seasons": 2,
+		"releaseDate": "27 Septmember 2019"
+	},
+	{
+		"id": 75,
+		"name": "Rajma Chawal",
+		"rating": 5.8,
+		"description": "Good family movie dealing with life in the big, decaying section of the city, Old Delhi.",
+		"category": ["Comedy", "Family", "Drama"],
+		"platform": "Netflix",
+		"casting": {
+			"actors": ["Amyra Dastur", "Rishi Kapoor", "Manu Rishi Chadda"],
+			"director": ["Leena Yaddav"]
+		},
+		"poster": "https://www.google.com/search?q=rajma+chawal+poster&tbm=isch&ved=2ahUKEwi5wOb9_qjzAhXBnEsFHcRKD7sQ2-cCegQIABAA&oq=rajma+chawal+poster&gs_lcp=CgNpbWcQAzIFCAAQgAQ6CAgAEIAEELEDOggIABCxAxCDAToECAAQQzoHCAAQsQMQQzoLCAAQgAQQsQMQgwFQ6ShYmWRgwGVoAHAAeASAAZsDiAG7KJIBCjAuNy4xNS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=U-FWYfnKM8G5rtoPxJW92As&bih=657&biw=1280",
+		"episodeCount": 1,
+		"seasons": 1,
+		"releaseDate": " 2018"
+	},
+	{
+		"id": 76,
+		"name": "State of Siege: 26/11",
+		"rating": 8.1,
+		"description": "State Of Siege :26/11 Web series centered around the 2008 Mumbai terror attack..",
+		"category": ["Action"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": ["Arjan Bajwa", "Arun Bijlani", "Mukul Dev"],
+			"director": ["Matthew Leutwyler", "Prashant Singh"]
+		},
+		"poster": "https://akamaividz2.zee5.com/image/upload/w_1920,h_770,c_scale,f_webp,q_auto:eco/resources/0-6-2370/cover/1170x658withlog1647121299.jpg",
+		"episodeCount": 8,
+		"seasons": 1,
+		"releaseDate": "20 March 2020"
+	}
 ]
